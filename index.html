@@ -3,7 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Animalia Paradoxa by charlesflynn</title>
+    <title>Animalia Paradoxa</title>
+
+  <link rel="stylesheet" href="/lib/slickgrid/slick.grid.css" type="text/css"/>
+  <link rel="stylesheet" href="/lib/slickgrid/controls/slick.pager.css" type="text/css"/>
+  <link rel="stylesheet" href="/lib/slickgrid/css/smoothness/jquery-ui-1.8.16.custom.css" type="text/css"/>
+  <link rel="stylesheet" href="/lib/slickgrid/controls/slick.columnpicker.css" type="text/css"/>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -11,14 +16,23 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+<style>
+#animaliaGrid {
+  border: 1px solid gray;
+}
+</style>
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1>Animalia Paradoxa</h1>
-        <p>The contradictory creatures of data analytics</p>
+        <h4>Contradictory Creatures of Data Analytics</h4>
+        <p>What's with the title?<br />The list has a lot of Hadoop-related stuff. But software developers can be contradictory creatures too.</p>
+        <p>Is there a visualization?<br />Yes, <a href="/graph/" target="_blank">right here</a>! Or click the image below:<br />
+<span align="center"><a href="/graph/" target="_blank"><img src="/images/graph.png"></a></span></p>
+        <p>What's in the download?<br />The list in several formats, plus munging scripts. See <a href="https://github.com/charlesflynn/animalia-paradoxa">the project</a> for details.</p>
 
-        <p class="view"><a href="https://github.com/charlesflynn/animalia-paradoxa">View the Project on GitHub <small>charlesflynn/animalia-paradoxa</small></a></p>
 
 
         <ul>
@@ -28,9 +42,24 @@
         </ul>
       </header>
       <section>
-        <p>This is a list of data analytics resources that I've compiled over the 18 months. It contains software projects, books, articles, blog posts, and presentations. And one email.</p>
+        <p>This is not (even close to) an exhaustive list on the topic of data analytics. This is just a list of stuff I've collected that I thought might be useful to others.</p>
 
-<p>This is not (even close to) an exhaustive list on the topic of data analytics. It's just a list of the items I've found most helpful or interesting so far.</p>
+
+<div style="position:relative">
+  <div style="width:600px;">
+    <div class="grid-header" style="width:100%">
+      <span style="float:right" class="ui-icon ui-icon-search" title="Toggle search panel"
+            onclick="toggleFilterRow()"></span>
+    </div>
+    <div id="animaliaGrid" style="width:100%;height:500px;"></div>
+    <div id="pager" style="width:100%;height:20px;"></div>
+  </div>
+</div>
+
+<div id="inlineFilterPanel" style="display:none;background:#dddddd;padding:3px;color:black;">
+  Show items with title including <input type="text" id="txtSearch2"></div>
+</div>
+
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/charlesflynn">charlesflynn</a></p>
@@ -38,6 +67,19 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
+<script src="/lib/slickgrid/lib/firebugx.js"></script>
+<script src="/lib/slickgrid/lib/jquery-1.7.min.js"></script>
+<script src="/lib/slickgrid/lib/jquery-ui-1.8.16.custom.min.js"></script>
+<script src="/lib/slickgrid/lib/jquery.event.drag-2.2.js"></script>
+<script src="/lib/slickgrid/slick.core.js"></script>
+<script src="/lib/slickgrid/slick.formatters.js"></script>
+<script src="/lib/slickgrid/slick.editors.js"></script>
+<script src="/lib/slickgrid/plugins/slick.rowselectionmodel.js"></script>
+<script src="/lib/slickgrid/slick.grid.js"></script>
+<script src="/lib/slickgrid/slick.dataview.js"></script>
+<script src="/lib/slickgrid/controls/slick.pager.js"></script>
+<script src="/lib/slickgrid/controls/slick.columnpicker.js"></script>
+<script src="AnimaliaParadoxa.js"></script>
     
   </body>
 </html>

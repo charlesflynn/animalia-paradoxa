@@ -144,6 +144,7 @@ JNM2W77Q,"Dapper, a large-scale distributed systems tracing infrastructure",Jour
 T7M8DJD5,Data Analysis Should Be a Social Event,Web Page,http://blogs.hbr.org/2013/04/data-analysis-should-be-a-soci/
 HK92QE5B,Data Infrastructure at LinkedIn,Presentation,http://www.slideshare.net/amywtang/webscale-analyticsfb-24031929
 TCGI9AX7,Data Mining and Business Analytics with R,Book,http://www.worldcat.org/search?q=isbn%3A9781118593745
+XTXJ7JSU,Data Platform Design Patterns,Presentation,http://www.slideshare.net/allenday54/20130905-singapore-big-datasg
 N47JPCM7,Data Recipes: Using Hadoop to Explore Chaos,Blog Post,http://thedatachef.blogspot.com/2013/08/using-hadoop-to-explore-chaos.html
 TQU6ZJKK,"Data Science tools: Are you ""all in"" or do you ""mix and match""?",Blog Post,http://strata.oreilly.com/2013/03/data-science-tools-all-in-or-mix-and-match.html
 8GU9J7SQ,Data Wrangler,Software,http://vis.stanford.edu/wrangler/app/
@@ -309,6 +310,7 @@ RB836D8G,Interactive Python graphics/visualisation with Excel,Web Page,http://dp
 F9BG5MZC,Interactive data visualization for the web,Book,http://www.worldcat.org/search?q=isbn%3A9781449340254
 ACIAGMCK,Interpreting the Data: Parallel Analysis with Sawzall,Journal Article,http://lambda.csail.mit.edu/~chet/papers/others/p/pike/sawzall-sciprog.pdf
 DXQ7F58M,Intro to Python for Financial Data Analysis,Presentation,http://www.slideshare.net/wesm/intro-to-python-for-financial-data-analysis
+HDMHVT7H,Introduction to Mahout and How To Build a Recommender,Presentation,http://www.slideshare.net/tdunning/dfw-big-data-talk-on-mahout-recommenders
 K79N8SIB,Introduction to enterprise architecture: third edition.,Book,http://www.worldcat.org/search?q=isbn%3A1477258000
 AKKAP7QZ,Introduction to graph theory,Book,http://www.worldcat.org/search?q=isbn%3A0486678709
 4W24DGUC,Introduction to information retrieval,Book,http://www.worldcat.org/search?q=isbn%3A9780521865715
@@ -355,6 +357,8 @@ D4SUKFA5,Machine learning a probabilistic perspective,Book,http://www.worldcat.o
 8TXFSZT4,Machine learning for hackers,Book,http://www.worldcat.org/search?q=isbn%3A9781449330545
 4RVISKP3,Machine learning in action,Book,http://www.worldcat.org/search?q=isbn%3A9781617290183
 J9UVG42F,Machine learning the art and science of algorithms that make sense of data,Book,http://www.worldcat.org/search?q=isbn%3A9781139572972
+3RQS8GB7,Mahout for R Users,Blog Post,http://www.r-bloggers.com/mahout-for-r-users/
+SBXPGNVM,Mahout in Action,Book,http://www.worldcat.org/search?q=isbn%3A
 F99SQ56M,"Managing data in motion: data integration, best practice techniques and technologies",Book,http://www.worldcat.org/search?q=isbn%3A9780123971678
 X7K63VM7,Many Eyes,Software,http://www-958.ibm.com/software/data/cognos/manyeyes/
 FBQXN8K9,MapReduce design patterns,Book,http://www.worldcat.org/search?q=isbn%3A9781449327170
@@ -376,6 +380,7 @@ DZUBW7J2,MongoDB,Software,http://www.mongodb.org/
 IA7A94N7,Monitoring with Ganglia,Book,http://www.worldcat.org/search?q=isbn%3A
 CVXZPFMV,Mortar Data,Software,http://mortardata.com/
 FC4GV96D,Mr. LDA: A flexible large scale topic modeling package using variational inference in MapReduce,Conference Paper,http://dl.acm.org/citation.cfm?id=2187955
+FA7WW3VI,Multi-Modal Recommendation,Presentation,http://www.slideshare.net/tdunning/buzz-wordsdunningmultimodalrecommendation
 E39EH5FP,NLTK,Software,http://nltk.org/
 ZQZPFKVU,NLTK Trainer,Software,https://github.com/japerk/nltk-trainer
 UANNQHUR,Narrative Visualization: Telling Stories with Data,Journal Article,http://vis.stanford.edu/papers/narrative
@@ -384,6 +389,7 @@ P7SEFZ62,Natural language processing with Python,Book,http://www.worldcat.org/se
 JXJIHEDM,Neo4j,Software,http://www.neo4j.org/
 TFRUTA82,Neo4j in action.,Book,http://www.worldcat.org/search?q=isbn%3A1617290769
 F4CN3TXM,New Paradigms for High Performance Analytical Computing,Journal Article,https://www.ndm.net/datawarehouse/pdf/High_Performance_Paradigms.pdf
+5Q729XSF,NoSQL and SQL Work Side-by-Side to Tackle Real-time Big Data Needs,Presentation,http://www.slideshare.net/allenday54/20130617-new-york-open-analytics-summit-no-sql-and-sql
 VVD3Q4NI,NodeBox,Software,http://nodebox.net/
 UKR2744B,Now you see it: simple visualization techniques for quantitative analysis,Book,http://www.worldcat.org/search?q=isbn%3A
 TMXR5KSZ,NuPIC,Software,https://github.com/numenta/nupic
@@ -596,6 +602,7 @@ I2XEC4KT,Untangling Cluster Management with Helix,Presentation,http://www.slides
 MXEXCM7M,Using Coprocessors to Index Columns in an Elasticsea...,Presentation,http://www.slideshare.net/cloudera/hbasecon-2013-apache-hadoop-and-apache-hbase-for-realtime-video-analytics
 EEVFZ3EE,Using HBase effectively - What You Need to Know as an Application Developer,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27109
 JW87SW75,Using Hadoop to Expand Data Warehousing,Presentation,http://strataconf.com/strata2013/public/schedule/detail/28638
+H6WCVH87,Using Mahout and a Search Engine for Recommendation,Presentation,http://www.slideshare.net/tdunning/using-mahout-and-a-search-engine-for-recommendation
 U4RT2KWR,Using R to unlock the value of big data: big data anylytics with Oracle R Enterprise and Oracle R Connector for hadoop,Book,http://www.worldcat.org/search?q=isbn%3A9780071824385
 FA8A3BGR,Using open source platforms for business intelligence: avoid pitfalls and maximize ROI,Book,http://www.worldcat.org/search?q=isbn%3A
 I54EUK9D,Varaha,Software,https://github.com/thedatachef/varaha

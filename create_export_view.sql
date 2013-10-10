@@ -19,7 +19,7 @@ SELECT DISTINCT i.key AS id,
                     WHEN lower(it.typeName) = 'videorecording' THEN 'Video'
                     WHEN lower(it.typeName) = 'webpage' THEN 'Web Page'
                     ELSE it.typeName
-                END AS TYPE ,
+                END AS type ,
                 CASE
                     WHEN lower(it.typeName) = 'book' THEN 'http://www.worldcat.org/search?q=isbn%3A' || substr(x.isbn, 0, instr(trim(x.isbn), ' '))
                     ELSE x.url

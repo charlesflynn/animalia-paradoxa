@@ -1,0 +1,670 @@
+id,title,type,url
+D6SJWXX3,"""Raw data"" is an oxymoron",Book,http://www.worldcat.org/search?q=isbn%3A9780262518284
+AU965PZX,21 recipes for mining Twitter,Book,http://www.worldcat.org/search?q=isbn%3A9781449304096
+XZTKXDDQ,38 Tools For Beautiful Data Visualisations,Web Page,http://www.elisa-dbi.co.uk/blog/38-tools-for-beautiful-data-visualisations/
+I7TIBTGK,A Bird's-Eye View of Pig and Scalding with hRaven,Presentation,http://www.slideshare.net/ghelmling/helmling-june27-1100amhall1?ref=http://eventifier.co/event/hadoopsummit2013/slides
+2GUVV3UB,A Data Scientist's Real Job: Storytelling,Blog Post,http://blogs.hbr.org/2013/03/a-data-scientists-real-job-sto/
+EF5PVS5A,A Periodic Table of Visualization Methods,Web Page,http://www.visual-literacy.org/periodic_table/periodic_table.html
+NUFKQ8V5,A Tour Through the Visualization Zoo,Web Page,http://hci.stanford.edu/jheer/files/zoo/
+A26QM3DG,A bridging model for parallel computation,Journal Article,http://doi.acm.org/10.1145/79173.79181
+52T4BAGG,"A powerful Big Data trio: Spark, Parquet and Avro",Blog Post,http://zenfractal.com/2013/08/21/a-powerful-big-data-trio/
+3SRKGDUR,A practitioner's guide to business analytics: using data analysis tools to improve your organization's decision making and strategy,Book,http://www.worldcat.org/search?q=isbn%3A9780071807593
+U6HFBWW5,AWS Redshift: How Amazon Changed The Game,Web Page,http://blog.aggregateknowledge.com/2013/05/16/aws-redshift-how-amazon-changed-the-game/
+GE77KRT3,Advanced R Development,Manuscript,http://adv-r.had.co.nz/
+9NKU4Q7P,Agile Data Science: Building Data Analytics Applications with Hadoop,Book,http://www.worldcat.org/search?q=isbn%3A1449326269
+J6WD4EJP,"Agile data warehouse design: collaborative dimensional modeling, from whiteboard to star schema",Book,http://www.worldcat.org/search?q=isbn%3A9780956817204
+AJRX5RAK,Akela,Software,https://github.com/mozilla-metrics/akela
+24QD696H,Akka,Software,http://akka.io/
+Z4F2MG3U,AlchemyAPI,Software,http://www.alchemyapi.com/
+H9XSKFR3,Algorithmic trading: winning strategies and their rationale,Book,http://www.worldcat.org/search?q=isbn%3A9781118659557
+AI7979BE,Algorithms,Book,http://www.worldcat.org/search?q=isbn%3A9780321573513
+VQTUSSIE,Algorithms of the intelligent Web,Book,http://www.worldcat.org/search?q=isbn%3A9781933988665
+E3FJB33K,All our datasets: the complete index,Web Page,http://www.theguardian.com/news/datablog/interactive/2013/jan/14/all-our-datasets-index
+FS55GC5E,Amazon DynamoDB,Software,http://aws.amazon.com/dynamodb/
+ZB2A5UMM,Amazon Elastic MapReduce (EMR),Software,http://aws.amazon.com/elasticmapreduce/
+3IHWJAXT,Amazon Elastic MapReduce Developer Guide,Report,http://amzn.com/B007US6CIO
+XW6NJKBB,Amazon Redshift,Software,http://aws.amazon.com/redshift/
+WFRFUSI3,Ambrose,Software,https://github.com/twitter/ambrose
+9XXFECBS,"An Introduction to the Berkeley Data Analytics Stack (BDAS) Featuring Spark, Spark Streaming, and Shark",Presentation,http://strataconf.com/strata2013/public/schedule/detail/27438
+J82QTXJD,An Overview of Complex Event Processing | Packt Publishing,Web Page,http://www.packtpub.com/article/overview-complex-event-processing
+Z2PHR24D,Anaconda,Software,https://store.continuum.io/cshop/anaconda/
+SN9K5Z8V,Analytical modeling is both science and art,Blog Post,http://searchbusinessanalytics.techtarget.com/opinion/Analytical-modeling-is-both-science-and-art
+4FFIZ7MM,Analytics Maturity Model,Presentation,http://www.slideshare.net/jdegoes/analytics-maturity-model
+TFMJUI84,Apache Ambari,Software,http://incubator.apache.org/ambari/
+UUJ6MEB6,Apache Avro,Software,http://avro.apache.org/
+BGK25DKT,Apache Cassandra,Software,http://cassandra.apache.org/
+SWDF74V2,Apache Crunch,Software,http://crunch.apache.org/
+B6RWN7BG,Apache Drill,Software,http://incubator.apache.org/drill/
+8FFX53JK,Apache Falcon,Software,http://falcon.incubator.apache.org/
+683HDZIX,Apache Flume,Software,http://flume.apache.org/
+4E8D2K2H,Apache Flume: Distributed Log Collection for Hadoop,Book,http://www.worldcat.org/search?q=isbn%3A1299735142
+EGXGRQQX,Apache Giraph,Software,http://giraph.apache.org/
+X6GW2K23,Apache HBase,Software,http://hbase.apache.org/
+8CJR9WXP,Apache HBase Operations at Pinterest,Presentation,http://www.slideshare.net/cloudera/operations-session-1
+XBVRVBDG,Apache HBase and HDFS - Understanding Filesystem Usa...,Presentation,http://www.slideshare.net/cloudera/internals-session-5
+IEEI7WZ2,Apache Hadoop,Software,http://hadoop.apache.org/
+HJN4NPWS,"Apache Hadoop Patterns of Use: Refine, Enrich and Explore",Report,http://hortonworks.com/blog/apache-hadoop-patterns-of-use-refine-enrich-and-explore/
+QI837RD9,Apache Hadoop YARN,Software,http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html
+A2KCBSV3,Apache Hive,Software,http://hive.apache.org/
+ECUCQHEC,Apache Kafka,Software,http://kafka.apache.org
+QZ3XNV6B,Apache Lucene,Software,http://lucene.apache.org/
+D4QHNTZ6,Apache Mahout,Software,http://mahout.apache.org/
+486ZVAWX,Apache Mesos,Software,http://mesos.apache.org/
+588PQKCJ,Apache Oozie,Software,http://oozie.apache.org/
+A7VUPGHS,Apache Pig,Software,http://pig.apache.org/
+UT4MIT7F,Apache S4,Software,http://incubator.apache.org/s4/
+EQNDHICF,Apache Solr,Software,http://lucene.apache.org/solr/
+KCDBQJXV,"Apache Solr 3 Enterprise Search Server enhance your search with faceted navigation, result highlighting, relevancy ranked sorting, and more",Book,http://www.worldcat.org/search?q=isbn%3A9781849516075
+PX5VIT28,Apache Solr 4 cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781782161332
+UHB9HRMD,Apache Spark,Software,http://spark-project.org/
+IRU5AGX9,Apache Sqoop,Software,http://sqoop.apache.org/
+FCTVPS76,Apache Sqoop cookbook,Book,http://www.worldcat.org/search?q=isbn%3A1449364624
+46UWU82S,Apache Tez,Software,http://tez.incubator.apache.org/
+FDEEM4SH,Apache Thrift,Software,http://thrift.apache.org/
+WQPCCE2M,Apache ZooKeeper,Software,http://zookeeper.apache.org/
+5645HB8G,Apache hadoop yarn: moving beyond mapreduce and batch processing with apache,Book,http://www.worldcat.org/search?q=isbn%3A0321934504
+VEBJ49GM,Applied predictive modeling,Book,http://www.worldcat.org/search?q=isbn%3A1461468485
+ARHT46HQ,Asgard,Software,https://github.com/Netflix/asgard
+CX3ARNKP,AsyncHBase,Software,https://github.com/OpenTSDB/asynchbase
+R8EMGJWR,Augustus,Software,https://code.google.com/p/augustus/
+8FNBDGP3,Availability in Globally Distributed Storage Systems.,Conference Paper,http://static.usenix.org/events/osdi10/tech/full_papers/Ford.pdf
+U3HXJWWX,Azkaban,Software,http://azkaban.github.io/azkaban2/
+PX4SI3E6,Bad data handbook,Book,http://www.worldcat.org/search?q=isbn%3A9781449321888
+S22RT4BP,Basic Notes on Configuring Eclipse as a Hadoop Development Environment for MapR,Blog Post,http://www.mapr.com/blog/basic-notes-on-configuring-eclipse-as-a-hadoop-development-environment-for-mapr
+4I4HUSE3,Bayesian reasoning and machine learning,Book,http://www.worldcat.org/search?q=isbn%3A9780521518147
+U6WBB8C7,Bearcart,Software,https://github.com/wrobstory/bearcart
+TCUJJEP4,Beautiful Soup,Software,https://pypi.python.org/pypi/beautifulsoup4
+3TVWUUVM,Beginning R: an introduction to statistical programming,Book,http://www.worldcat.org/search?q=isbn%3A9781430245544
+VD62QCKN,Behemoth,Software,https://github.com/DigitalPebble/behemoth
+SNPSI98I,"Big Data Analytics From Strategic Planning to Enterprise Integration With Tools, Techniques, Nosql, and Graph.",Book,http://www.worldcat.org/search?q=isbn%3A9780124173194
+9XCUBFJF,Big Data Culture Gap: Technology Advancing More Quickly Than People and Processes - Strata,Report,http://strata.oreilly.com/2013/09/big-data-culture-gap-technology-advancing-more-quickly-than-people-and-processes.html#more-59859
+TRD2TPWB,Big Data Security.,Book,http://www.worldcat.org/search?q=isbn%3A9781118559215
+EXRGIQC9,Big Data Understanding How Data Powers Big Business.,Book,http://www.worldcat.org/search?q=isbn%3A9781118739570
+NTWFT66T,Big Data Vendor Revenue and Market Forecast 2012-2017,Web Page,http://wikibon.org/w/index.php?title=Big_Data_Vendor_Revenue_and_Market_Forecast_2012-2017&printable=yes
+F8DMSBK4,"Big Data: The Next Frontier for Innovation, Competition, and Productivity",Book,http://www.worldcat.org/search?q=isbn%3A
+SQQ78TP2,Big data analytics,Book,http://www.worldcat.org/search?q=isbn%3A9781583476208
+XTKGRCQ9,Big data analytics turning big data into big money,Book,http://www.worldcat.org/search?q=isbn%3A9781118225820
+A92ZH3NF,Big data analytics using Splunk,Book,http://www.worldcat.org/search?q=isbn%3A143025761X
+4GZ3N78J,Big data and business analytics,Book,http://www.worldcat.org/search?q=isbn%3A9781466565791
+83EK2SQ6,Big data for chimps.,Book,http://www.worldcat.org/search?q=isbn%3A1449335969
+PX6RJADD,Big data glossary,Book,http://www.worldcat.org/search?q=isbn%3A1449314597
+KR67XDBC,Big data governance an emerging imperative,Book,http://www.worldcat.org/search?q=isbn%3A9781583477182
+VM8KZKEX,"Big data imperatives: enterprise big data warehouse, BI implementations and analytics",Book,http://www.worldcat.org/search?q=isbn%3A9781430248736
+F9RQ2KW4,"Big data, big analytics: emerging business intelligence and analytic trends for today's businesses",Book,http://www.worldcat.org/search?q=isbn%3A9781118147603
+ZJCTPV3Z,"Big data: a revolution that will transform how we live, work, and think",Book,http://www.worldcat.org/search?q=isbn%3A0544002695
+VXQ4D3BS,Big data: principles and best practices of scalable realtime data systems.,Book,http://www.worldcat.org/search?q=isbn%3A1617290343
+GZH4AZKX,BigSQL,Software,http://www.bigsql.org/se/
+RB2WATKC,Bigdata,Software,http://sourceforge.net/apps/mediawiki/bigdata/index.php?title=Main_Page
+UIC9D8XN,Bin-summarise-smooth: A framework for visualising large data,Journal Article,http://www.polisci.ucla.edu/workshops/ap-workshop-papers/Hadley%20Wickham%20Paper-%2004-08-13.pdf
+6D5V6556,Binify + D3 = Gorgeous honeycomb maps,Blog Post,http://mechanicalscribe.com/notes/binify-d3-topojson-tutorial/
+IADC22BT,Blacklight,Software,https://github.com/projectblacklight/blacklight
+6DJQHDHT,Blaze,Software,https://github.com/ContinuumIO/blaze
+93M76FGH,Bokeh,Software,https://github.com/ContinuumIO/Bokeh
+6IJ2MVCQ,Building LinkedIn's Real-time Activity Data Pipeline.,Journal Article,http://sites.computer.org/debull/A12june/A12JUN-CD.pdf#page=35
+DXICKUFE,Building Recommendation Platforms with Hadoop,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27475
+EACDTSKK,Building Scalable Big Data Infrastructure Using Open Source Software,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27419
+5IT79DTA,Building Web reputation systems,Book,http://www.worldcat.org/search?q=isbn%3A9780596159795
+E5R4PUD7,Building a Modern Website for Scale (QCon NY 2013),Presentation,http://www.slideshare.net/r39132/q-con-ny2013modernwebsitescalabilityfinal-22989785
+72J673V2,Building a Real-Time Data Pipeline: Apache Kafka at LinkedIn,Presentation,http://www.slideshare.net/amywtang/building-a-realtime-data-pipeline-apache-kafka-at-linked-in
+XPB4D3BB,"Building a digital analytics organization create value by integrating analytical processes, technology, and people into business operations",Book,http://www.worldcat.org/search?q=isbn%3A9780133372823
+D9CTQJV2,Building machine learning systems with Python,Book,http://www.worldcat.org/search?q=isbn%3A
+AZDNGES6,Building the unstructured data warehouse,Book,http://www.worldcat.org/search?q=isbn%3A9781935504337
+SMX93MIK,Business intelligence in Microsoft SharePoint 2013,Book,http://www.worldcat.org/search?q=isbn%3A0735675430
+U469AWFK,"CAP Twelve Years Later: How the ""Rules"" Have Changed",Web Page,http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
+CDUJR32B,CFOs Ignore Big Data at Their Peril,Newspaper Article,http://online.wsj.com/article/SB10001424127887323419604578571684135006800.html
+EJQQRZ8N,Callimachus,Software,http://callimachusproject.org/
+FNUC2WMU,Cascading,Software,http://www.cascading.org/
+XIHC7RAQ,Cascalog,Software,https://github.com/nathanmarz/cascalog
+MMCQCBRI,Cassandra high performance cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849515139
+H37GVDCM,Cassandra: the definitive guide,Book,http://www.worldcat.org/search?q=isbn%3A9781449390419
+NXUCT3CQ,Chartkick,Software,https://github.com/ankane/chartkick
+MRASCZG8,Chartkick.py,Software,https://github.com/mher/chartkick.py
+AJUWJJHT,"Cheetah: a high performance, custom data warehouse on top of MapReduce",Journal Article,http://dl.acm.org/citation.cfm?id=1921020
+82W4RE2N,Chill,Software,https://github.com/twitter/chill
+DQPCQUIC,Chronos,Software,https://github.com/airbnb/chronos
+8BWUCH4M,CitusDB,Software,http://www.citusdata.com/downloads
+JE85QQE3,Clojure data analysis cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781782162650
+6SWHI2ZD,Cloud9,Software,https://github.com/lintool/Cloud9
+Z79EMGHX,Collective intelligence in action,Book,http://www.worldcat.org/search?q=isbn%3A9781933988313
+WG2ZAMH2,Comparing Pattern Mining on a Billion Records with HP Vertica and Hadoop,Blog Post,http://www.vertica.com/2013/04/08/comparing-pattern-mining-on-a-billion-records-with-hp-vertica-and-hadoop/
+3RTJD6SQ,Computational-Journalism-Publishers-Workbench,Software,https://github.com/znmeb/Computational-Journalism-Publishers-Workbench
+UBEJTJTM,Constructions from Dots and Lines,Report,http://arxiv.org/abs/1006.2361
+82PE7SA3,Continuuity Reactor,Software,http://continuuity.com/
+EGR6FV4F,Creating a Business Dashboard in R,Blog Post,http://www.r-bloggers.com/creating-a-business-dashboard-in-r/
+GM8TIUJD,"Creative intelligence: harnessing the power to create, connect, and inspire",Book,http://www.worldcat.org/search?q=isbn%3A9780062088420
+E9PIZB7K,Crossfilter,Software,https://github.com/square/crossfilter
+6BCS7ANZ,Crux,Software,https://github.com/sonalgoyal/crux
+4S7QN6MU,D 3: Data-Driven Documents,Journal Article,http://vis.stanford.edu/files/2011-D3-InfoVis.pdf
+SQCHK9WC,D3 Plugins,Software,https://github.com/d3/d3-plugins
+NRTMP62C,D3.js,Software,https://github.com/mbostock/d3
+7QQ4ITZ4,DAGPype,Software,https://pypi.python.org/pypi/DAGPype
+9RKGNCT9,DAX formulas for PowerPivot,Book,http://www.worldcat.org/search?q=isbn%3A9781615472123
+UW7WG52G,DB-Engines Ranking,Web Page,http://db-engines.com/en/ranking
+JNM2W77Q,"Dapper, a large-scale distributed systems tracing infrastructure",Journal Article,"http://sites.google.com/site/atlediadema/training-documents/Google%20Technical%20Report%20-%20dapper,%202010.pdf"
+T7M8DJD5,Data Analysis Should Be a Social Event,Web Page,http://blogs.hbr.org/2013/04/data-analysis-should-be-a-soci/
+HK92QE5B,Data Infrastructure at LinkedIn,Presentation,http://www.slideshare.net/amywtang/webscale-analyticsfb-24031929
+TCGI9AX7,Data Mining and Business Analytics with R,Book,http://www.worldcat.org/search?q=isbn%3A9781118593745
+N47JPCM7,Data Recipes: Using Hadoop to Explore Chaos,Blog Post,http://thedatachef.blogspot.com/2013/08/using-hadoop-to-explore-chaos.html
+TQU6ZJKK,"Data Science tools: Are you ""all in"" or do you ""mix and match""?",Blog Post,http://strata.oreilly.com/2013/03/data-science-tools-all-in-or-mix-and-match.html
+8GU9J7SQ,Data Wrangler,Software,http://vis.stanford.edu/wrangler/app/
+EVA9EJAQ,Data analysis using SQL and Excel,Book,http://www.worldcat.org/search?q=isbn%3A
+4EJRDZ9M,Data analysis with open source tools,Book,http://www.worldcat.org/search?q=isbn%3A9780596802356
+8IJIA8RJ,Data and reality,Book,http://www.worldcat.org/search?q=isbn%3A1585009709
+U73FV8PG,Data architecture: from zen to reality,Book,http://www.worldcat.org/search?q=isbn%3A
+6FJHNX5Q,"Data governance how to design, deploy, and sustain an effective data governance program",Book,http://www.worldcat.org/search?q=isbn%3A
+QIN9Z5RC,Data just right: practical big data analytics,Book,http://www.worldcat.org/search?q=isbn%3A9780321898654
+ETT5PHXT,Data points visualization that means something,Book,http://www.worldcat.org/search?q=isbn%3A1299407412
+DDKABZBN,Data science for business: [what you need to know about data mining and data-analytic thinking],Book,http://www.worldcat.org/search?q=isbn%3A1449361323
+G5PEJ23C,Data source handbook,Book,http://www.worldcat.org/search?q=isbn%3A
+PSS2PBF4,Data virtualization for business intelligence systems: revolutionizing data integration for data warehouses,Book,http://www.worldcat.org/search?q=isbn%3A
+ADH59QUQ,Data visualization a successful design process,Book,http://www.worldcat.org/search?q=isbn%3A9781849693479
+5338JKAN,Data warehousing in the age of big data,Book,http://www.worldcat.org/search?q=isbn%3A0124059201
+699CREEB,Data's missing ingredient? Rhetoric. - Strata,Blog Post,http://strata.oreilly.com/2013/04/datas-missing-ingredient-rhetoric.html
+VFJAPPUH,"Data, Data, Data: Thousands of Public Data Sources",Web Page,http://blog.bigml.com/2013/02/28/data-data-data-thousands-of-public-data-sources/
+B784CAD7,Data-intensive text processing with MapReduce,Manuscript,http://lintool.github.io/MapReduceAlgorithms/index.html
+CMSF8Q36,Data-intensive text processing with MapReduce,Book,http://www.worldcat.org/search?q=isbn%3A9781608453436
+49HK2WGJ,DataFu,Software,https://github.com/linkedin/datafu
+HG9K5QCN,Database Landscape Map,Web Page,http://blogs.the451group.com/information_management/files/2013/02/db_Map_2_13.jpg
+WFMA46BG,Database.com-FDW,Software,https://github.com/metadaddy-sfdc/Database.com-FDW-for-PostgreSQL
+JFGIKK9K,Databus,Software,https://github.com/linkedin/databus
+CZGNTPU5,Datameer,Software,http://www.datameer.com/index.html
+QIH5X427,Dataset.js,Software,https://github.com/misoproject/dataset
+VJFHZCPK,"Debug Servlets, or 'HTTP won; use it' - philz",Web Page,http://omel.ette.org/blog/2013/02/06/debug-servlets/
+756N5D2Q,Decision management systems a practical guide to using business rules and predictive analytics,Book,http://www.worldcat.org/search?q=isbn%3A9780132884471
+WF7ABW53,Dedupe,Software,https://github.com/open-city/dedupe
+RR8MGUD7,Deep Dive with Spark Streaming - Tathagata  Das - Spark Meetup 2013...,Presentation,http://www.slideshare.net/spark-project/deep-divewithsparkstreaming-tathagatadassparkmeetup20130617
+55PTV2FT,Designing Great Data Products,Book,http://www.worldcat.org/search?q=isbn%3A
+RAT77VPI,Designing Query Optimizers for Big Data Problems of The Future,Journal Article,http://db.disi.unitn.eu/pages/VLDBProgram/pdf/flash/Vertica.pdf
+H79JIQ4D,Designing information: human factors and common sense in information design,Book,http://www.worldcat.org/search?q=isbn%3A9781118341971
+FPS5DCPQ,Developing a D3.js Edge,Book,http://www.worldcat.org/search?q=isbn%3A
+4WN3FX56,Dex,Software,http://dexvis.com/
+KDK7CSEI,DexCharts,Software,https://github.com/PatMartin/DexCharts
+D8AJD8FW,Digital marketing analytics making sense of consumer data in a digital world,Book,http://www.worldcat.org/search?q=isbn%3A9780133150933
+9P9H78AC,Disco,Software,https://github.com/discoproject/disco
+PM97WBC6,Distributed R for Big Data,Blog Post,http://www.vertica.com/2013/02/21/presto-distributed-r-for-big-data/
+EJFH35B4,Distributed training strategies for the structured perceptron,Conference Paper,http://dl.acm.org/citation.cfm?id=1857999.1858068
+G9DCQEHP,Doing data science.,Book,http://www.worldcat.org/search?q=isbn%3A1449358659
+IE6PSAUG,Domesticating Pig with Lipstick,Blog Post,http://blog.mortardata.com/post/60765120319/domesticating-pig-with-lipstick
+62MFDZ2S,Dremel: interactive analysis of web-scale datasets,Journal Article,http://dl.acm.org/citation.cfm?id=1920886
+6HDEKGPB,Drive Smarter Decisions with Big Data Using Complex Event Processing,Presentation,http://www.slideshare.net/perficientinc/drive-smarter-decisions-with-big-data-using-complex-event-processing
+QGNIECAZ,Drools,Software,http://www.jboss.org/drools/
+RFWMRB4J,Druid,Software,http://druid.io/
+3P8TG47K,Dumbo,Software,https://github.com/klbostee/dumbo
+5BANT8GN,EPD,Software,http://www.enthought.com/
+VPFWMHXX,ElasticSearch,Software,https://github.com/elasticsearch/elasticsearch
+EB3PMHB4,ElasticSearch: Text analysis for content enrichment,Blog Post,http://jaibeermalik.wordpress.com/2013/03/26/elasticsearch-text-analysis-for-content-enrichment/
+QJW2Z3PS,Elasticity,Software,https://github.com/rslifka/elasticity
+5MVFIHCI,Elasticsearch Hadoop,Software,https://github.com/elasticsearch/elasticsearch-hadoop
+9R7IXAST,"Elasticsearch server: create a fast, scalable, and flexible search solution with the emerging open source search server, ElasticSearch",Book,http://www.worldcat.org/search?q=isbn%3A9781849518444
+426DMPZZ,Elephant,Software,https://github.com/kennethreitz/elephant
+9E32GU4B,Elephant Bird,Software,https://github.com/kevinweil/elephant-bird
+GE25DMUZ,Elephant Twin,Software,https://github.com/twitter/elephant-twin
+CHG379Q2,ElephantDB,Software,https://github.com/nathanmarz/elephantdb
+E9KCUJ25,"Enterprise analytics: optimize performance, process and decisions through big data",Book,http://www.worldcat.org/search?q=isbn%3A9780133039436
+Q48N27GP,Enterprise data workflows with cascading.,Book,http://www.worldcat.org/search?q=isbn%3A1449358721
+IB5T6ISC,Ericsson Labs | HBase: Performance Tuners,Blog Post,http://labs.ericsson.com/blog/hbase-performance-tuners
+G27XKXIT,Esper,Software,http://esper.codehaus.org/
+UAGIGGP9,Essential Collection of Visualisation Resources,Web Page,http://www.visualisingdata.com/index.php/resources/
+XSUWS2GG,Ethics of big data,Book,http://www.worldcat.org/search?q=isbn%3A9781449311797
+DNJK7G9J,Event processing in action,Book,http://www.worldcat.org/search?q=isbn%3A
+H3VUC7HR,Evolving a First-Generation Apache HBase Deployment...,Presentation,http://www.slideshare.net/cloudera/hbasecon-2013-evolving-a-firstgeneration-apache-hbase-deployment-to-second-generation-and-beyond
+F5BD4WNS,Exhibitor,Software,https://github.com/Netflix/exhibitor
+E5KCDKSR,Exploring everythings with R and Ruby.,Book,http://www.worldcat.org/search?q=isbn%3A9781449315153
+U5B4KEAS,Extracting insights from the shape of complex data using topology,Journal Article,http://www.nature.com/srep/2013/130207/srep01236/full/srep01236.html
+5IME55QK,Facet: The Recursive Approach to Visualization,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27485
+DFP2R2GJ,"Fast, Cheap, and 98% Right: Cardinality Estimation for Big Data",Blog Post,http://metamarkets.com/2012/fast-cheap-and-98-right-cardinality-estimation-for-big-data/
+EWABQZPZ,FasteR! HigheR! StongeR! -- A Guide to Speeding Up R Code for Busy People,Web Page,http://www.r-bloggers.com/faster-higher-stonger-a-guide-to-speeding-up-r-code-for-busy-people/
+GMV9AZ7W,"Faster, More Memory Efficient SQL queries via IOPro",Blog Post,http://continuum.io/blog/iopro-pyodbc-performance
+2IR9I97U,Faunus,Software,https://github.com/thinkaurelius/faunus
+E8QTKDVZ,Feedback Control for Programmers and Other Strangers,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27667
+UWIQV2BG,Finagle,Software,https://github.com/twitter/finagle
+NUQB4N97,Find and be Found: Information Retrieval at LinkedIn,Presentation,http://www.slideshare.net/dtunkelang/find-and-be-found-information-retrieval-at-linked-in
+E34CSES7,Forget-Table,Software,https://github.com/bitly/forgettable
+64SJQ2KX,Foundations of machine learning,Book,http://www.worldcat.org/search?q=isbn%3A9780262305662
+WX3U7UTS,FuzzyWuzzy,Software,https://github.com/seatgeek/fuzzywuzzy
+E462QEX9,GDELT Data,Web Page,http://eventdata.psu.edu/data.dir/GDELT.html#.UWMC3-UnquE.twitter
+UAN9HUID,GIS Tools for Hadoop,Software,https://github.com/Esri/gis-tools-for-hadoop
+663Q9DF7,Ganglia Monitoring System,Software,http://ganglia.info/
+XIUA2I36,Genie,Software,https://github.com/Netflix/genie
+BPTD4V2N,Genie - Hadoop Platform as a Service at Netflix,Presentation,http://www.slideshare.net/krishflix/genie-hadoop-platform-as-a-service-at-netflix
+9US295WJ,Gephi,Software,https://gephi.org/
+QRJSBPKG,Getting Started With Amazon Redshift,Book,http://www.worldcat.org/search?q=isbn%3A129967402X
+P2652VUJ,Getting Started with Talend Open Studio for Data Integration,Book,http://www.worldcat.org/search?q=isbn%3A
+UWNSIVWZ,"Getting started with Google Guava write better, more efficient Java, and have fun doing so",Book,http://www.worldcat.org/search?q=isbn%3A
+VSKZ44QN,Gnuplot Cookbook.,Book,http://www.worldcat.org/search?q=isbn%3A9781849517249
+CJUC3XMU,"Good math: a geek's guide to the beauty of numbers, logic, and computation",Book,http://www.worldcat.org/search?q=isbn%3A1937785335
+XAM23V5A,Google BigQuery,Software,https://developers.google.com/bigquery/docs/overview
+7M28N2P2,Google Fusion Tables,Software,https://developers.google.com/fusiontables/
+SIJ2FQUT,Graph Dracula,Software,https://github.com/strathausen/dracula
+MAS4ZP2E,Graph databases,Book,http://www.worldcat.org/search?q=isbn%3A9781449356224
+NRASWDAD,GraphChi,Software,http://graphchi.org
+EFSQ3U36,GraphChi: Large-scale graph computation on just a PC,Conference Paper,https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf
+B4QD943A,Graphene,Software,https://github.com/jondot/graphene
+P8J9TZ8A,Graphical models with R,Book,http://www.worldcat.org/search?q=isbn%3A9781461422990
+MUNQVFI3,Gremlin,Software,https://github.com/tinkerpop/gremlin
+8GJ54PFP,H2O,Software,https://github.com/0xdata/h2o
+BNI7CJMT,HBase Administration Cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849517140
+ZJTANGDP,HBase Client APIs (for webapps?),Presentation,http://www.slideshare.net/xefyr/hbase-client-apis-for-webapps
+AFEGWFTW,HBase Data Types (WIP),Presentation,http://www.slideshare.net/xefyr/hbase-data-types-wip
+KAKCCPVM,HBase in action,Book,http://www.worldcat.org/search?q=isbn%3A
+G32469AT,HBase the definitive guide,Book,http://www.worldcat.org/search?q=isbn%3A9781449315771
+8IKBX6R4,HBaseHUT,Software,https://github.com/sematext/HBaseHUT
+RRTAQFS5,HBaseWD,Software,https://github.com/sematext/HBaseWD
+KFXA6P7N,HDFS-DU,Software,https://github.com/twitter/hdfs-du
+QBJFQ5NN,HDInsight,Software,http://www.microsoft.com/en-us/sqlserver/solutions-technologies/business-intelligence/big-data.aspx
+4WZWCJVF,HIHO,Software,https://github.com/sonalgoyal/hiho
+EG273F2E,"HOWTO use Hive to SQLize your own Tweets - Part Two: Loading Hive, SQL Queries",Blog Post,http://hortonworks.com/blog/howto-use-hive-to-sqlize-your-own-tweets-part-two-loading-hive-sql-queries/
+8W256HQM,HPaste,Software,https://github.com/GravityLabs/HPaste
+D2KMAH67,HTTPie,Software,https://github.com/jkbr/httpie
+H9UGUX8P,HTrace,Software,https://github.com/cloudera/htrace
+CWGGXHQF,Hadoop Beginner's Guide,Book,http://www.worldcat.org/search?q=isbn%3A9781849517317
+IJAZJ6GR,Hadoop Data Warehousing with Hive,Presentation,http://strataconf.com/strata2013/public/schedule/detail/26899
+XIS7FS67,Hadoop Icons,Blog Post,http://hortonworks.com/blog/a-set-of-hadoop-related-icons/?mkt_tok=3RkMMJWWfF9wsRoiua7OZKXonjHpfsX54%2BgvXKG%2FlMI%2F0ER3fOvrPUfGjI4CTsdjI%2BSLDwEYGJlv6SgFT7TMMbFh1rgNUxc%3D
+QGWEIAGG,Hadoop MapReduce cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849517287
+KJFX422F,Hadoop Operations at LinkedIn,Presentation,http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea?ref=http://eventifier.co/event/hadoopsummit2013/slides
+7ZSFX6V4,Hadoop Patterns of Use,Presentation,http://www.slideshare.net/hortonworks/hadoop-patterns-of-use
+QIZCDQ7Z,Hadoop Performance at LinkedIn,Presentation,http://www.slideshare.net/allenwittenauer/2012-lihadoopperf
+KS8QEGE5,Hadoop Programming - Pushing the Limit (Pushing the Limits),Book,http://www.worldcat.org/search?q=isbn%3A
+MDR5CCZC,Hadoop Tips: Debugging a Hadoop MapReduce Program in Eclipse,Blog Post,http://www.thecloudavenue.com/2012/10/debugging-hadoop-mapreduce-program-in.html
+WP87HXEJ,Hadoop and Vertica: The Data Analytics Platform at Twitter,Presentation,http://www.slideshare.net/billonahill/hadoop-summit-2012-hadoop-and-vertica-the-data-analytics-platform-at-twitter
+AJGTAHGE,Hadoop in action,Book,http://www.worldcat.org/search?q=isbn%3A9781935182191
+ZGWWG7ER,Hadoop in practice,Book,http://www.worldcat.org/search?q=isbn%3A
+QB9C9X7M,Hadoop operations,Book,http://www.worldcat.org/search?q=isbn%3A
+DT3KZWGB,Hadoop operations and cluster management cookbook,Book,http://www.worldcat.org/search?q=isbn%3A
+UXUNQA74,Hadoop real-world solutions cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849519120
+EH5UPAG9,Hadoop-LZO,Software,https://github.com/twitter/hadoop-lzo
+9KDGRD55,Hadoop: the definitive guide,Book,http://www.worldcat.org/search?q=isbn%3A9781449311520
+32PZS897,Hadoopy,Software,https://github.com/bwhite/hadoopy
+I5QNIFE4,Harness the Power of Big Data The IBM Big Data Platform,Book,http://www.worldcat.org/search?q=isbn%3A
+DT98VSNE,Hazy: Making it Easier to Build and Maintain Big-data Analytics,Journal Article,http://doi.acm.org/10.1145/2428616.2431055
+WC7VD5F3,Hive-JSON-Serde,Software,https://github.com/rcongiu/Hive-JSON-Serde
+JN7RQ5RT,How P&G Presents Data to Decision-Makers,Blog Post,http://blogs.hbr.org/cs/2013/04/how_p_and_g_presents_data.html
+VFWI67JV,How Selections Work,Web Page,http://bost.ocks.org/mike/selection/
+MXN3NBFX,How To Perform Spatial Analytics with Hive and Hadoop,Blog Post,http://hortonworks.com/blog/how-to-perform-spatial-analytics-with-hive-and-hadoop/
+HJJGU2NR,How data science is transforming health care,Book,http://www.worldcat.org/search?q=isbn%3A9781449344979
+8KQUENXT,How to Do a Big Data Project,Report,http://bigdata.infochimps.com/Portals/174427/docs/bigdataprojecthowto.pdf
+NIUJGEVI,How to Get the MTTR Below 1 Minute and More,Presentation,http://www.slideshare.net/cloudera/internals-session-2
+EAP3DAZ6,How to Make Apache Hive 100X Faster? Apache Hive Stinger,Blog Post,http://hortonworks.com/blog/100x-faster-hive/
+6HEB5D4C,How to lie with statistics,Book,http://www.worldcat.org/search?q=isbn%3A
+4UTWAEE8,"How to measure anything finding the value of ""intangibles"" in business",Book,http://www.worldcat.org/search?q=isbn%3A
+MCPE8BTC,How to tell stories with data (really),Presentation,http://www.slideshare.net/kris77chan/edward-segel-interactivestorytelling
+6ZH7QZZ9,How-to: Develop CDH Applications with Maven and Eclipse,Blog Post,http://blog.cloudera.com/blog/2012/08/developing-cdh-applications-with-maven-and-eclipse/
+M354ZI6J,How-to: Import a Pre-existing Oozie Workflow into Hue,Blog Post,http://blog.cloudera.com/blog/2013/03/how-to-import-a-pre-existing-oozie-workflow-into-hue/
+BM6C3BMI,How-to: Use Eclipse with MapReduce in Cloudera's QuickStart VM,Blog Post,http://blog.cloudera.com/blog/2013/08/how-to-use-eclipse-with-mapreduce-in-clouderas-quickstart-vm/
+4CZWHX2T,Hoya,Software,https://github.com/hortonworks/hoya
+2AA9HT5Q,Hoya (HBase on YARN) : Application Architecture,Blog Post,http://hortonworks.com/blog/hoya-hbase-on-yarn-application-architecture/
+KIEGUVTE,Hue,Software,https://github.com/cloudera/hue
+HEUCW35T,Human Fault-tolerance,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27610
+SFVX43GP,HyperLogLog in practice: algorithmic engineering of a state of the art cardinality estimation algorithm,Conference Paper,http://dl.acm.org/citation.cfm?id=2452456
+8ZPHZ778,IPython,Software,https://github.com/ipython/ipython
+538648KJ,Impala,Software,http://www.cloudera.com/content/cloudera/en/products/cdh/impala.html
+MBM8Q9NZ,Impala: A Modern SQL Engine for Hadoop,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27991
+NIM63PQF,Implementing Splunk: big data reporting and development for operational intelligence,Book,http://www.worldcat.org/search?q=isbn%3A9781849693288
+M7SFEG5A,"Implementing analytics: a blueprint for design, development, and adoption.",Book,http://www.worldcat.org/search?q=isbn%3A0124016960
+Q2HZB8SX,Information dashboard design: displaying data for at-a-glance monitoring,Book,http://www.worldcat.org/search?q=isbn%3A1938377001
+D4HHF8DU,Information dashboard design: the effective visual communication of data,Book,http://www.worldcat.org/search?q=isbn%3A
+WAPBVK5X,Information graphics,Book,http://www.worldcat.org/search?q=isbn%3A9783836528795
+NJGAFSQE,Ingesting XML in Hive using XPath,Blog Post,https://communities.intel.com/community/datastack/blog/2013/08/15/hadoop-tutorials-ingesting-xml-in-hive-using-xpath
+RB836D8G,Interactive Python graphics/visualisation with Excel,Web Page,http://dpinte.wordpress.com/2010/03/12/interactive-python-graphicsvisualisation-with-excel/
+F9BG5MZC,Interactive data visualization for the web,Book,http://www.worldcat.org/search?q=isbn%3A9781449340254
+ACIAGMCK,Interpreting the Data: Parallel Analysis with Sawzall,Journal Article,http://lambda.csail.mit.edu/~chet/papers/others/p/pike/sawzall-sciprog.pdf
+DXQ7F58M,Intro to Python for Financial Data Analysis,Presentation,http://www.slideshare.net/wesm/intro-to-python-for-financial-data-analysis
+K79N8SIB,Introduction to enterprise architecture: third edition.,Book,http://www.worldcat.org/search?q=isbn%3A1477258000
+AKKAP7QZ,Introduction to graph theory,Book,http://www.worldcat.org/search?q=isbn%3A0486678709
+4W24DGUC,Introduction to information retrieval,Book,http://www.worldcat.org/search?q=isbn%3A9780521865715
+5NH8M3PD,Ivory,Software,https://github.com/lintool/Ivory
+R76Z8K2B,JBoss Teiid,Software,http://www.jboss.org/teiid/
+KQ5PCEI2,JSON-LD,Software,https://github.com/json-ld/json-ld.org
+6VT74RCG,JavaMelody,Software,https://code.google.com/p/javamelody/
+77RC6FK2,Jolokia,Software,https://github.com/rhuss/jolokia
+V5UUJBJI,Jubatus,Software,https://github.com/jubatus/jubatus
+G948TRTQ,KNIME,Software,http://www.knime.org/
+Q44MNNXU,Karmasphere,Software,http://www.karmasphere.com/
+8ZKPUVDB,Keeping up with the quants: your guide to understanding and using analytics,Book,http://www.worldcat.org/search?q=isbn%3A9781422187258
+ZEMEBQBA,Kiji,Software,http://www.kiji.org/
+EPEPHRF5,Knitting Boar,Software,https://github.com/jpatanooga/KnittingBoar
+JZDMBNGB,Kryo,Software,http://code.google.com/p/kryo/
+VIU77TTG,Large complex data: divide and recombine (D&R) with RHIPE,Journal Article,http://onlinelibrary.wiley.com/doi/10.1002/sta4.7/full
+K2GJ8XUW,Large scale data processing in Hadoop MapReduce scenario: Time estimation and computation models,Book,http://www.worldcat.org/search?q=isbn%3A
+ENTNM82B,"Large-Scale Search Discovery Analytics with Hadoop, Mahout, Solr",Presentation,http://www.slideshare.net/Hadoop_Summit/large-scale-search-discover-analytics-mahoot-solr
+FFHP7KG2,Large-scale machine learning at twitter,Conference Paper,http://dl.acm.org/citation.cfm?id=2213958
+5PADVX99,Learning IPython for interactive computing and data visualization,Book,http://www.worldcat.org/search?q=isbn%3A1782169938
+TPGGP29B,"Learning RStudio for R Statistical Computing: learn to effectively perform R development, statistical analysis, and reporting with the most popular R IDE",Book,http://www.worldcat.org/search?q=isbn%3A9781782160601
+D8GP3Q2R,Learning SPARQL: querying and updating with SPARQL 1.1,Book,http://www.worldcat.org/search?q=isbn%3A
+9NDTSHT8,Learning Spark: lightning-fast big data analytics,Book,http://www.worldcat.org/search?q=isbn%3A9781449358624
+FHWI2RN7,Learning from data: a short course,Book,http://www.worldcat.org/search?q=isbn%3A1600490069
+MC9RSTAR,Learning scipy for numerical and scientific computing.,Book,http://www.worldcat.org/search?q=isbn%3A1782161627
+99AZI4VW,Let's Make a Map,Web Page,http://bost.ocks.org/mike/map/
+GZIQBEMF,Linear Regression and Metronome,Presentation,http://www.slideshare.net/jpatanooga/hadoop-summit-eu-2013-parallel-linear-regression-iterativereduce-and-yarn
+CW96NIGU,Linked Data,Software,http://linkeddata.org/
+V5FXPDP8,Linked data,Book,http://www.worldcat.org/search?q=isbn%3A1617290394
+WG6KEAVF,LinkedIn Data Infrastructure Slides (Version 2),Presentation,http://www.slideshare.net/r39132/linkedin-data-infrastructure-slides-version-2-13394853
+NDSVMWF5,LinkedIn's Segmentation & Targeting Platform,Presentation,http://www.slideshare.net/r39132/linkedins-segmentation-targeting-platform?ref=http://eventifier.co/event/hadoopsummit2013/slides
+KBA3E28N,"LinkedIn, Apache Pig, and Open Source",Blog Post,http://blog.linkedin.com/2010/07/01/linkedin-apache-pig/
+N5EEPT8H,Linux Performance Analysis and Tools,Presentation,http://www.slideshare.net/brendangregg/linux-performance-analysis-and-tools
+XCEZBC5R,Lipstick,Software,https://github.com/Netflix/Lipstick
+ACB3REDC,List of 40+ Machine Learning APIs,Blog Post,http://blog.mashape.com/post/48074869493/list-of-40-machine-learning-apis
+AQPXFVXJ,Literate computing and computational reproducibility: IPython in the age of data-driven journalism,Blog Post,http://blog.fperez.org/2013/04/literate-computing-and-computational.html
+7NDH8QHQ,LucidWorks Big Data,Software,http://docs.lucidworks.com/display/bigdata/System+Architecture
+F65D8FW6,Luigi,Software,https://github.com/spotify/luigi
+PG776IDW,MADlib,Software,https://github.com/madlib/madlib
+4VCSN2AQ,MINE,Software,http://www.exploredata.net/
+GGIBUAJA,MLDemos,Software,https://gitorious.org/mldemos/
+TUNPSAA8,Machine Learning,Book,http://www.worldcat.org/search?q=isbn%3A9781107422223
+D4SUKFA5,Machine learning a probabilistic perspective,Book,http://www.worldcat.org/search?q=isbn%3A9780262305242
+8TXFSZT4,Machine learning for hackers,Book,http://www.worldcat.org/search?q=isbn%3A9781449330545
+4RVISKP3,Machine learning in action,Book,http://www.worldcat.org/search?q=isbn%3A9781617290183
+J9UVG42F,Machine learning the art and science of algorithms that make sense of data,Book,http://www.worldcat.org/search?q=isbn%3A9781139572972
+F99SQ56M,"Managing data in motion: data integration, best practice techniques and technologies",Book,http://www.worldcat.org/search?q=isbn%3A9780123971678
+X7K63VM7,Many Eyes,Software,http://www-958.ibm.com/software/data/cognos/manyeyes/
+FBQXN8K9,MapReduce design patterns,Book,http://www.worldcat.org/search?q=isbn%3A9781449327170
+G2KWB77P,"MapReduce is Good Enough? If All You Have is a Hammer, Throw Away Everything That's Not a Nail!",Report,http://arxiv.org/abs/1209.2191
+2ATZFZ2X,MapReduce online,Conference Paper,http://dl.acm.org/citation.cfm?id=1855711.1855732
+C3ZMQ45F,Mapping Corporate Networks With OpenCorporates,Presentation,http://www.slideshare.net/psychemedia/mapping-corporate-networks-with-opencorporates?ref=http://blog.ouseful.info/2013/04/23/mapping-corporate-networks-with-opencorporates/
+N4ZFI97J,Marathon,Software,https://github.com/mesosphere/marathon
+X5TKD5F2,Massive online data stream mining with R,Blog Post,http://www.bnosac.be/index.php/blog/26-massive-online-data-stream-mining-with-r
+RRUDQWE9,Matplotlib for Python developers: build remarkable publication quality plots the easy way,Book,http://www.worldcat.org/search?q=isbn%3A1847197906
+GUH437W6,Measuring data quality for ongoing improvement: a data quality assessment framework,Book,http://www.worldcat.org/search?q=isbn%3A
+VQ9JMMBI,MessagePack,Software,https://github.com/msgpack/msgpack
+EQM63IWU,MessagePack-Hadoop,Software,https://github.com/msgpack/msgpack-hadoop
+UC7UN5ZD,Microsoft SQL Server 2012 with Hadoop,Book,http://www.worldcat.org/search?q=isbn%3A
+94MJVD6D,Mining of massive datasets,Book,http://www.worldcat.org/search?q=isbn%3A9781107015357
+XPHH8F67,Mining the social web,Book,http://www.worldcat.org/search?q=isbn%3A9781449388348
+Q46CG7KF,MoSQL,Software,https://github.com/stripe/mosql
+R2S7IKGE,Modeling techniques in predictive analytics: business problems and solutions with R,Book,http://www.worldcat.org/search?q=isbn%3A9780133412932
+DZUBW7J2,MongoDB,Software,http://www.mongodb.org/
+IA7A94N7,Monitoring with Ganglia,Book,http://www.worldcat.org/search?q=isbn%3A
+CVXZPFMV,Mortar Data,Software,http://mortardata.com/
+FC4GV96D,Mr. LDA: A flexible large scale topic modeling package using variational inference in MapReduce,Conference Paper,http://dl.acm.org/citation.cfm?id=2187955
+E39EH5FP,NLTK,Software,http://nltk.org/
+ZQZPFKVU,NLTK Trainer,Software,https://github.com/japerk/nltk-trainer
+UANNQHUR,Narrative Visualization: Telling Stories with Data,Journal Article,http://vis.stanford.edu/papers/narrative
+P7SEFZ62,Natural language processing with Python,Book,http://www.worldcat.org/search?q=isbn%3A
+27TSCGMG,"Near realtime, streaming, and perpetual analytics",Blog Post,http://strata.oreilly.com/2013/07/near-realtime-streaming-and-perpetual-analytics.html?imm_mid=0adcff&cmp=em-strata-na-na-newsltr_20130807_elist
+JXJIHEDM,Neo4j,Software,http://www.neo4j.org/
+TFRUTA82,Neo4j in action.,Book,http://www.worldcat.org/search?q=isbn%3A1617290769
+F4CN3TXM,New Paradigms for High Performance Analytical Computing,Journal Article,https://www.ndm.net/datawarehouse/pdf/High_Performance_Paradigms.pdf
+VVD3Q4NI,NodeBox,Software,http://nodebox.net/
+UKR2744B,Now you see it: simple visualization techniques for quantitative analysis,Book,http://www.worldcat.org/search?q=isbn%3A
+TMXR5KSZ,NuPIC,Software,https://github.com/numenta/nupic
+9X8WVUN9,Nullege: A Search Engine for Python source code,Web Page,http://nullege.com/
+RXGNMMRG,NumPy Cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849518932
+AXRMFMJD,Numbersense: how to use big data to your advantage,Book,http://www.worldcat.org/search?q=isbn%3A9780071799669
+267TDCAZ,Numerical recipes: the art of scientific computing,Book,http://www.worldcat.org/search?q=isbn%3A9780521706858
+N7ZJGHNA,ONE Automation,Software,http://automic.com/the-automation-engine/
+9AGNIN6K,ORC File and Vectorization - Hadoop Summit 2013,Presentation,http://www.slideshare.net/oom65/orc-andvectorizationhadoopsummit?ref=http://www.slideshare.net/slideshow/embed_code/23625246
+XVRDRAW7,On Writing Python UDF for Pig: A perspective,Blog Post,http://ragrawal.wordpress.com/2013/02/24/on-writing-python-udf-for-pig-a-perspective/
+A2CEA9UC,Online Available Data Services: a Primer,Presentation,http://www.slideshare.net/indecadenza/daa-s-xchange2013galassopiuntiv04
+A8WAGGHC,OpenRefine,Software,https://github.com/OpenRefine/OpenRefine
+EG97DFQK,OpenTSDB,Software,http://opentsdb.net/
+TUJUSS8E,OpenTSDB at Box,Presentation,http://www.slideshare.net/cloudera/operations-session-3
+CZW95DPR,Openlayers cookbook.,Book,http://www.worldcat.org/search?q=isbn%3A1849517843
+GPXQ95DR,Oracle big data handbook,Book,http://www.worldcat.org/search?q=isbn%3A0071827269
+PGNQQZW6,Orange,Software,http://orange.biolab.si/
+W32RIB3R,Orange: Data Mining Toolbox in Python,Journal Article,http://jmlr.org/papers/v14/demsar13a.html
+UDPIF5GU,Out of the crisis,Book,http://www.worldcat.org/search?q=isbn%3A
+75KWJ6Z7,Pangool,Software,http://pangool.net/
+IKA6ISBE,Paradoxes in Social Networks with Multiple Products,Report,http://arxiv.org/abs/1301.7592
+72K3XT8N,Parquet,Software,http://parquet.io/
+HA426GEG,Parquet: Columnar storage for the people,Presentation,http://www.slideshare.net/julienledem/parquet-hadoop-summit-2013
+GUUARKR4,Pattern recognition and machine learning,Book,http://www.worldcat.org/search?q=isbn%3A0387310738
+6QNPJ9I4,Pattern – an open source project for migrating predi...,Presentation,http://www.slideshare.net/pacoid/pattern-an-open-source-project-for-migrating-predictive-models-from-sas-etc-onto-hadoop
+CC73UJIG,Pentaho Big Data Plugin,Software,https://github.com/pentaho/big-data-plugin
+HZM2HBKZ,People analytics how social sensing technology will transform business and what it tells us about the future of work,Book,http://www.worldcat.org/search?q=isbn%3A9780133158342
+PVMWABNB,Phoenix,Software,https://github.com/forcedotcom/phoenix
+C2MIJGWD,Pig Eye for the SQL Guy,Blog Post,http://hortonworks.com/blog/pig-eye-for-the-sql-guy/
+H7EGVRJD,Pig RedisStorer,Software,https://github.com/mattb/pig-redis
+SNCZNBHZ,Pig and HBase with LucidWorks Big Data,Blog Post,http://info.lucidworks.com/blog/bid/272738/Pig-and-HBase-with-LucidWorks-Big-Data
+93SE9235,Pig and Hive at Yahoo!,Blog Post,http://developer.yahoo.com/blogs/hadoop/pig-hive-yahoo-464.html
+RNKKI9SD,"Pig, ToJson, and Redis to publish data with Flask",Blog Post,http://hortonworks.com/blog/pig-tojson-and-redis-to-publish-data-with-flask/
+V52JFFMF,PigML,Software,https://github.com/hanborq/pigml
+Q45I7GNA,Piglet,Software,https://github.com/iconara/piglet
+KS2CJEZV,Pigsy,Software,https://github.com/infochimps-labs/pigsy
+G48EEHKH,PostgreSQL,Software,http://www.postgresql.org/
+46C5MZJ8,Precog Platform,Software,https://github.com/precog/platform
+7CUVVVA6,"Predictive analytics: the power to predict who will click, buy, lie, or die",Book,http://www.worldcat.org/search?q=isbn%3A9781118356852
+XP74SH8C,Pregel: a system for large-scale graph processing,Conference Paper,http://doi.acm.org/10.1145/1807167.1807184
+PVKW9T7H,Priam,Software,https://github.com/Netflix/Priam
+VDKV6V2N,Privacy and big data,Book,http://www.worldcat.org/search?q=isbn%3A9781449305000
+PZA66M3E,Pro Data Visualization using R and JavaScript,Book,http://www.worldcat.org/search?q=isbn%3A9781430258063
+ZXPP426E,Pro Hadoop,Book,http://www.worldcat.org/search?q=isbn%3A9781430219439
+9BHZKGGZ,Pro micosoft hdinsight: hadoop on windows.,Book,http://www.worldcat.org/search?q=isbn%3A1430260556
+KJDCBI7T,Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,Web Page,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+M6IGIX2F,"Processing 2 creative programming cookbook: over 90 highly-effective recipes to unleash your creativity with interactive art, graphics, computer vision, 3D, and more",Book,http://www.worldcat.org/search?q=isbn%3A9781849517959
+FM5R2PZN,Processing a trillion cells per mouse click,Journal Article,http://dl.acm.org/citation.cfm?id=2350259
+CCECKZRN,Professional Hadoop solutions,Book,http://www.worldcat.org/search?q=isbn%3A9781118611937
+IDC9U4RU,Programming Hive,Book,http://www.worldcat.org/search?q=isbn%3A9781449319335
+AS9ZVRBT,Programming Pig,Book,http://www.worldcat.org/search?q=isbn%3A1449302645
+EB6VZV2C,Programming collective intelligence: building smart web 2.0 applications,Book,http://www.worldcat.org/search?q=isbn%3A0596529325
+55B886T4,Programming elastic mapreduce: using aws services to build an end-to-end application.,Book,http://www.worldcat.org/search?q=isbn%3A1449363628
+X4V9KNVA,Programming the Semantic Web,Book,http://www.worldcat.org/search?q=isbn%3A9780596153816
+BHCM3RFM,Protocol Buffers,Software,https://code.google.com/p/protobuf/
+2F8BPCZG,PyMC,Software,https://github.com/pymc-devs/pymc
+598TQM85,Pydoop,Software,https://github.com/crs4/pydoop
+AXQGKWJ3,Pydoop: a Python MapReduce and HDFS API for Hadoop,Conference Paper,http://doi.acm.org/10.1145/1851476.1851594
+HDNF9U8M,Python,Software,http://www.python.org/
+H3N6AWSK,Python Complements R's Shortcomings,Web Page,http://www.r-bloggers.com/python-compliments-rs-shortcomings/
+HGKCE44J,Python and AWS cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781449320492
+QPPUSBAV,Python cookbook,Book,http://www.worldcat.org/search?q=isbn%3A1449340377
+2H7MTG7N,Python essential reference,Book,http://www.worldcat.org/search?q=isbn%3A
+56JW3MVU,Python for data analysis,Book,http://www.worldcat.org/search?q=isbn%3A9781449323622
+TRT2HFAQ,Python text processing with NLTK 2.0 cookbook: over 80 practical recipes for using Python's NLTK suite of libraries to maximize your Natural Language Processing capabilities,Book,http://www.worldcat.org/search?q=isbn%3A1849513600
+Q7Q9MIE7,QFS,Software,https://github.com/quantcast/qfs
+DPZD5WIV,QlikView,Software,http://www.qlikview.com/
+XWX7CSDH,QlikView 11 for developers: develop business intelligence applications with QlikView 11,Book,http://www.worldcat.org/search?q=isbn%3A9781849686068
+QZ5F3GAT,QlikView for Developers Cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781782179740
+P2F9PMBI,Quandl,Software,http://www.quandl.com/
+U72BQVX6,QuantLib,Software,https://github.com/lballabio/quantlib
+285ASXM7,QuantLib-Python,Software,https://pypi.python.org/pypi/QuantLib-Python
+EM4AZB2D,Quantifying Memory: Experiments in python and d3 from R: GDELT made easy,Blog Post,http://quantifyingmemory.blogspot.com/2013/04/experiments-in-python-and-d3-from-r.html
+IIHRU5N5,R cookbook,Book,http://www.worldcat.org/search?q=isbn%3A
+IHZRQ3P7,R graphics cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781449363116
+MPTT3HZ6,R in action: data analysis and graphics with R,Book,http://www.worldcat.org/search?q=isbn%3A
+6G7UHNGB,RHIPE,Software,http://www.datadr.org/
+WGA5HE8W,RHadoop,Software,https://github.com/RevolutionAnalytics/RHadoop
+CSGH395P,RSeek.org,Software,http://rseek.org/
+QP835CRB,RStudio,Software,https://github.com/rstudio/rstudio
+P3Q98J8M,RTextTools,Software,https://github.com/timjurka/RTextTools
+5S3HG4AT,RapidMiner,Software,http://rapid-i.com/content/view/181/190/
+MM4P5BKM,Re: About the combiner execution,Email,http://mail-archives.apache.org/mod_mbox/hadoop-hdfs-user/201107.mbox/%3C374D8F3F-B8B1-499F-BEDB-BFEE3219010C@hortonworks.com%3E
+NFVQ37JN,Reading and Writing Avro Files from the Command Line,Blog Post,http://www.michael-noll.com/blog/2013/03/17/reading-and-writing-avro-files-from-the-command-line/
+QQGIJEHC,Recognizing numbers,Blog Post,http://www.johndcook.com/blog/2013/04/30/recognizing-numbers/
+TKRUM2ZE,Recommender systems: an introduction,Book,http://www.worldcat.org/search?q=isbn%3A9780521493369
+ZSK7WES7,RecordBreaker,Software,http://cloudera.github.com/RecordBreaker/
+PRIP7M2R,Red-blooded risk: the secret history of Wall Street,Book,http://www.worldcat.org/search?q=isbn%3A
+S7F7U362,Redis,Software,http://redis.io/
+F9KDAMS3,Redland RDF Libraries,Software,http://librdf.org/
+KJ2IUAXP,Requests,Software,https://github.com/kennethreitz/requests
+R2BWZT76,Review: The Problem with Our Data Obsession,Web Page,http://www.technologyreview.com/review/511176/the-problem-with-our-data-obsession/
+8GKK8EVJ,Rickshaw,Software,https://github.com/shutterstock/rickshaw
+EBPMQCUW,RockStor,Software,https://github.com/hanborq/rockstor
+DQQ7NSSJ,Ruby,Software,https://www.ruby-lang.org
+VZUMKM4B,Rubydoop,Software,https://github.com/iconara/rubydoop
+T3IDF2J6,S4: Distributed stream computing platform,Conference Paper,http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5693297
+DDWXK6E8,SADDLE,Software,https://github.com/saddle/saddle
+63V95WTG,STAR: Cluster,Software,http://star.mit.edu/cluster/
+BEWHCUBR,Samza,Software,http://samza.incubator.apache.org/
+FEJSVPDD,Scala,Software,http://www.scala-lang.org/
+NKNDSBZW,Scalding,Software,https://github.com/twitter/scalding
+HA7F5GFB,Scaling Apache Giraph to a trillion edges,Blog Post,https://www.facebook.com/notes/facebook-engineering/scaling-apache-giraph-to-a-trillion-edges/10151617006153920
+AXU3U5MF,Scaling big data mining infrastructure: the twitter experience,Journal Article,http://dl.acm.org/citation.cfm?id=2481247
+HUN9Q6PV,Scaling big data with hadoop and solr.,Book,http://www.worldcat.org/search?q=isbn%3A1783281375
+2J8PGHAX,SciDB,Software,http://www.scidb.org/
+QSEJGJI9,SciPy and NumPy,Book,http://www.worldcat.org/search?q=isbn%3A9781449305468
+UGJSSMRV,Scrapely,Software,https://github.com/scrapy/scrapely
+TFBBZW8S,ScraperWiki,Software,https://github.com/scraperwiki/scraperwiki-python
+QAXPVMHR,Scribe,Software,https://github.com/facebook/scribe
+HW27F7NV,Secrets of analytical leaders: insights from information insiders,Book,http://www.worldcat.org/search?q=isbn%3A
+553PVKIW,Sentiment analysis and opinion mining,Book,http://www.worldcat.org/search?q=isbn%3A9781608458844
+93TI9UJJ,Seven dirty secrets of data visualisation,Magazine Article,http://www.netmagazine.com/features/seven-dirty-secrets-data-visualisation
+J6NGMQS4,Seven steps to success: machine learning in practice,Report,http://daoudclarke.github.io/guide.pdf
+6FIQ2UQA,Shark,Software,https://github.com/amplab/shark
+TDIDTKU2,Shark: SQL and rich analytics at scale,Journal Article,http://arxiv.org/abs/1211.6176
+9ZD4674P,Shiny,Software,https://github.com/rstudio/shiny
+APSBX7Z6,SimianArmy,Software,https://github.com/Netflix/SimianArmy
+CGXM6IJD,Simmetrica,Software,https://github.com/o/simmetrica
+G9GKQCD7,Simpler workflow tools enable the rapid deployment of models,Blog Post,http://strata.oreilly.com/2013/04/workflow-tools-enable-the-rapid-deployment-of-models.html
+Q53TJT5K,Simplifying Big Data With Microsoft Hdinsight,Book,http://www.worldcat.org/search?q=isbn%3A
+PNC9ZKFR,Six Provocations for Big Data,Report,http://papers.ssrn.com/abstract=1926431
+7RIDCRRX,Sketching Techniques for Real-time Big Data,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27311
+IP3G85SX,Small Data and Big Data Should be Best Friends,Blog Post,http://blogs.edweek.org/edweek/edtechresearcher/2013/03/small_data_and_big_data_should_be_best_friends.html?cmp=SOC-SHR-FB
+DNKR5K5Q,Snakebite,Software,https://github.com/spotify/snakebite
+NTCIUUZJ,SnowWhite,Software,https://github.com/maksim2042/snowwhite
+HBB2Q63F,Snowflake,Software,https://github.com/twitter/snowflake
+FUE4CP9N,Snowplow,Software,https://github.com/snowplow/snowplow
+IKNZTPFH,Social network analysis for startups: [finding connections on the social web],Book,http://www.worldcat.org/search?q=isbn%3A9781449306465
+D676RFMU,Socorro,Software,https://github.com/mozilla/socorro
+V4G3CTKP,Soft skills: The 'killer app' for analytics,Magazine Article,http://www.analytics-magazine.org/november-december-2011/475-soft-skills-the-killer-app-for-analytics?tmpl=component&print=1&page=
+DKENT5ID,Software Carpentry: A Rational Computing Process: How and Why to Fake It,Blog Post,http://software-carpentry.org/blog/2013/05/rational-computing-process.html
+NHBD95HJ,Software for data analysis programming with R,Book,http://www.worldcat.org/search?q=isbn%3A0387759360
+B8FD9GWT,SolrEcosystem,Web Page,http://wiki.apache.org/solr/SolrEcosystem
+BSTMZ6VF,Solving the wrong problem,Web Page,http://joearms.github.com/2013/03/28/solving-the-wrong-problem.html
+9VGD8T6U,Sounder,Software,https://github.com/thedatachef/sounder
+7XRUTPEU,Sparse matrix multiplication using SQL,Blog Post,http://notes.mindprince.in/2013/06/07/sparse-matrix-multiplication-using-sql.html
+3Z6ITFHV,Spatial Framework for Hadoop,Software,https://github.com/Esri/spatial-framework-for-hadoop
+Z5JP79VZ,Spring Data: modern data access for enterprise Java,Book,http://www.worldcat.org/search?q=isbn%3A
+5NZ8TT2P,Spring for Apache Hadoop,Software,https://github.com/spring-projects/spring-hadoop
+WETXNFN7,Stado,Software,https://launchpad.net/stado
+IND9BZ8V,Starfish,Software,http://www.cs.duke.edu/starfish/
+SGNUZMFV,Starfish: A Self-tuning System for Big Data Analytics.,Conference Paper,http://x86.cs.duke.edu/~gang/documents/CIDR11_Paper36.pdf
+2CH9NKF2,Step-by-step MapReduce Programming,Blog Post,http://www.orzota.com/step-by-step-mapreduce-programming/
+VXDQ8U7U,Storm,Software,https://github.com/nathanmarz/storm
+W4U4BEKA,Storm-yarn,Software,https://github.com/yahoo/storm-yarn
+NQAP9US5,Storytelling with Data,Presentation,http://style.org/tapestry/
+ERCZPP7M,Storytelling: The Next Step for Visualization,Journal Article,http://kosara.net/publications/journal-papers.html
+XEKC2ZK4,Strata Conference Santa Clara 2013: Complete Video Compilation,Video,http://my.safaribooksonline.com/video/databases/9781449365394
+6IU8HWUX,StreamInsight,Software,http://www.microsoft.com/sqlserver/en/us/solutions-technologies/business-intelligence/streaming-data.aspx
+WBE8Z2ZU,Streaming Analytics vs. Perpetual Analytics (Advantages of Windowless Thinking),Blog Post,http://jeffjonas.typepad.com/jeff_jonas/2007/04/streaming_analy.html
+NTPB9JR7,Structure and interpretation of computer programs,Book,http://www.worldcat.org/search?q=isbn%3A
+8FA85UEZ,Summingbird,Software,https://github.com/twitter/summingbird
+XVCTMS5J,SwineHerd,Software,https://github.com/thedatachef/swineherd
+TJIUQ53K,SymPy,Software,http://sympy.org
+28KNQNWK,Tableau,Software,http://www.tableausoftware.com
+MKX9ZD36,Tableau Data Visualization Cookbook,Book,http://www.worldcat.org/search?q=isbn%3A
+TPUBSMEC,Talend Big Data,Software,http://www.talend.com/products/big-data
+BQ465SFG,Tales,Software,https://github.com/calufa/tales-core
+RZ4HDJ68,"Taming text: how to find, organise, and manipulate it",Book,http://www.worldcat.org/search?q=isbn%3A
+IQE9AU3R,Taming the big data tidal wave: finding opportunities in huge data streams with advanced analytics,Book,http://www.worldcat.org/search?q=isbn%3A9781118208786
+NFQR6QDD,Tenzing a sql implementation on the mapreduce framework,Journal Article,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.226.772
+8WAUFJMQ,The 8 Hats of Data Visualisation,Presentation,http://www.slideshare.net/visualisingdata/the-8-hats-of-data-visualisation
+97UKAQHI,The Apache HBase Reference Guide,Web Page,http://hbase.apache.org/book/book.html
+KRQDTPBD,The Business Singularity: Why Software Means Cycle Time Trumps Scale,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27993
+GCS5HQSV,The Business Value of Hadoop as seen through the Big Data,Report,http://hortonworks.com/blog/the-business-value-of-hadoop-as-seen-through-the-big-data/
+TW76D4HF,The Data Warehouse Toolkit The Definitive Guide to Dimensional Modeling.,Book,http://www.worldcat.org/search?q=isbn%3A9781118732281
+UGPFKE9I,The Enchanted Imagination: Storytelling's Power To Entrance Listeners.,Journal Article,http://www.eric.ed.gov/ERICWebPortal/recordDetail?accno=EJ593526
+THKKXTQA,The Evolution of Data Products,Book,http://www.worldcat.org/search?q=isbn%3A
+NS999WNG,The Hidden Biases in Big Data,Blog Post,http://blogs.hbr.org/2013/04/the-hidden-biases-in-big-data/
+PRU5CIT6,The Netflix Tech Blog: System Architectures for Personalization and Recommendation,Blog Post,http://techblog.netflix.com/2013/03/system-architectures-for.html
+VGXIICVG,The Question All Smart Visualizations Should Ask,Blog Post,http://blogs.hbr.org/2013/03/the-question-all-smart-visualizations/
+PXX5BCFU,The R Project,Software,http://www.r-project.org/
+CPXRJF9K,"The Wall Street journal guide to information graphics: the dos and don'ts of presenting data, facts, and figures",Book,http://www.worldcat.org/search?q=isbn%3A
+XH4244IV,The accidental analyst: show your data who's boss,Book,http://www.worldcat.org/search?q=isbn%3A1477432264
+6NZXUA97,The art of R programming: tour of statistical software design,Book,http://www.worldcat.org/search?q=isbn%3A
+JAMAJGEU,The art of SQL,Book,http://www.worldcat.org/search?q=isbn%3A
+MG59BNGG,The art of enterprise information architecture: a systems-based approach for unlocking business insight,Book,http://www.worldcat.org/search?q=isbn%3A9780137035717
+XHSIJV4A,The big data ecosystem at LinkedIn,Conference Paper,http://dl.acm.org/citation.cfm?id=2463707
+CE8S6KCC,The complete book of data anonymization: from planning to implementation,Book,http://www.worldcat.org/search?q=isbn%3A9781439877302
+ZEE2MNXU,The data journalism handbook,Book,http://www.worldcat.org/search?q=isbn%3A
+REC4RWTI,The data warehouse mentor: practical data warehouse and business intelligence insights,Book,http://www.worldcat.org/search?q=isbn%3A9780071745321
+NZUS9HVG,"The elements of statistical learning: data mining, inference, and prediction",Book,http://www.worldcat.org/search?q=isbn%3A9780387848570
+RQ89QPWF,The flaw of averages: why we underestimate risk in the face of uncertainty,Book,http://www.worldcat.org/search?q=isbn%3A
+TAXHWGWG,The fourth paradigm data-intensive scientific discovery,Book,http://www.worldcat.org/search?q=isbn%3A9780982544204
+W6F5NVIQ,The functional art: an introduction to information graphics and visualization,Book,http://www.worldcat.org/search?q=isbn%3A9780321834737
+H6AQEKHA,The human face of big data,Book,http://www.worldcat.org/search?q=isbn%3A1454908270
+R3ZB7EIS,The interface effect,Book,http://www.worldcat.org/search?q=isbn%3A
+X2VZRJAR,The legacy of Fischer Black,Book,http://www.worldcat.org/search?q=isbn%3A
+FJREF3QD,"The limits of software: people, projects, and perspectives",Book,http://www.worldcat.org/search?q=isbn%3A0201433230
+KBJ9G9RP,The split-apply-combine strategy for data analysis,Journal Article,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.5667&rep=rep1&type=pdf
+IEPG25XG,The unified logging infrastructure for data analytics at Twitter,Journal Article,http://dl.acm.org/citation.cfm?id=2367516
+62GKJ386,The vertica analytic database: C-store 7 years later,Journal Article,http://dl.acm.org/citation.cfm?id=2367518
+BDA3AWJW,Think Bayes.,Book,http://www.worldcat.org/search?q=isbn%3A9781449370787
+53WUTJPV,Think Python,Book,http://www.worldcat.org/search?q=isbn%3A9781449332037
+U7TWTGJV,Think complexity,Book,http://www.worldcat.org/search?q=isbn%3A9781449314637
+V49BXHHN,Think stats,Book,http://www.worldcat.org/search?q=isbn%3A
+XDEFAI45,Titan,Software,https://github.com/thinkaurelius/titan
+PS3J22VS,Too big to ignore: the business case for big data,Book,http://www.worldcat.org/search?q=isbn%3A9781118642108
+FTKSB6A6,Topological data analysis,Journal Article,http://iopscience.iop.org/0266-5611/27/12/120201
+38PX6BE8,Topology and data,Journal Article,http://www.ams.org/journals/bull/2009-46-02/S0273-0979-09-01249-X/
+7UAVVEZ3,Trelliscope,Software,https://github.com/hafen/trelliscope
+NHWWPUKZ,Tributary,Software,https://github.com/enjalot/tributary
+3FAK47Q5,Tricks for Distributed System Debugging and Diagnosis,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27194
+CPRUVUVZ,Tuple MapReduce,Conference Paper,http://dl.acm.org/citation.cfm?doid=1247480.1247602
+A4FT4KIC,Turning numbers into knowledge: mastering the art of problem solving,Book,http://www.worldcat.org/search?q=isbn%3A9780970601919
+IU9QUTSF,Understanding learning in order to implement efficient visualisation methods,Presentation,http://www.slideshare.net/visualisingdata/andy-kirk-talk-at-big-data-world-europe-september-2012
+I2XEC4KT,Untangling Cluster Management with Helix,Presentation,http://www.slideshare.net/amywtang/helix-socc-v10final-16247096
+4WD94B63,Using Apache HBase for Large Matrices,Presentation,http://www.slideshare.net/cloudera/hbasecon-2013-using-apache-hbase-for-large-matrices
+MXEXCM7M,Using Coprocessors to Index Columns in an Elasticsea...,Presentation,http://www.slideshare.net/cloudera/hbasecon-2013-apache-hadoop-and-apache-hbase-for-realtime-video-analytics
+EEVFZ3EE,Using HBase effectively - What You Need to Know as an Application Developer,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27109
+JW87SW75,Using Hadoop to Expand Data Warehousing,Presentation,http://strataconf.com/strata2013/public/schedule/detail/28638
+U4RT2KWR,Using R to unlock the value of big data: big data anylytics with Oracle R Enterprise and Oracle R Connector for hadoop,Book,http://www.worldcat.org/search?q=isbn%3A9780071824385
+FA8A3BGR,Using open source platforms for business intelligence: avoid pitfalls and maximize ROI,Book,http://www.worldcat.org/search?q=isbn%3A
+I54EUK9D,Varaha,Software,https://github.com/thedatachef/varaha
+9BMWZ7N4,Vega,Software,https://github.com/trifacta/vega
+3S4K97IJ,Vertica,Software,http://www.vertica.com/
+3TGGZSPG,Vertica Avro Parser,Software,https://github.com/vertica/Vertica-Extension-Packages
+XSUT9MU7,Vertica-Hadoop-Connector,Software,https://github.com/vertica/Vertica-Hadoop-Connector
+XAKDI5F8,Vincent,Software,https://github.com/wrobstory/vincent
+MB55NWRM,Visual Discovery Tools: Market Segmentation and Product Positioning,Report,http://www.idgconnect.com/view_abstract/14386/visual-discovery-tools-market-segmentation-product-positioning
+EP6ZQ732,"Visual explanations: images and quantities, evidence and narrative",Book,http://www.worldcat.org/search?q=isbn%3A
+57RX6RP4,Visual intelligence: Microsoft tools and techniques for visualizing data,Book,http://www.worldcat.org/search?q=isbn%3A9781118388037
+22FVU9B4,Visualisation Workflow: Finding Stories and Telling Stories,Presentation,http://www.slideshare.net/visualisingdata/andy-kirks-facebook-talk
+3FJPRJMC,"Visualization as Process, Not Output",Blog Post,http://blogs.hbr.org/cs/2013/04/visualization_as_process.html
+EKTDNC5M,Visualization databases for the analysis of large complex datasets,Conference Paper,http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS09_GuhaKHC.pdf
+2WU35IEM,"Visualize this: the FlowingData guide to design, visualization, and statistics",Book,http://www.worldcat.org/search?q=isbn%3A9780470944882
+VEAP6A8H,Visualizing Data: Exploring and Explaining Data with the Processing Environment,Book,http://www.worldcat.org/search?q=isbn%3A
+DQVRDA89,Visualizing the differences between UX and UI,Web Page,http://agbeat.com/tech-news/visualizing-the-differences-between-ux-and-ui/
+KQJRFCE4,Vizster: Visualizing online social networks,Conference Paper,http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1532126
+SKPMDJAT,Voldemort,Software,https://github.com/voldemort/voldemort
+SHHKCT7T,WAL-E,Software,https://github.com/wal-e/wal-e#wal-e-disaster-recovery
+ZV4S98RX,Waimea,Software,https://github.com/internetarchive/waimea
+8W48PBRW,Wakari,Software,https://wakari.io/
+C64F5D3H,Wakari and Big Finance,Blog Post,http://continuum.io/blog/wakari-and-big-finance
+SXDQVDTD,"Warren Buffett, The Human Big Data Engine",Blog Post,http://www.business2community.com/big-data/warren-buffett-the-human-big-data-engine-0484510
+PPSVWXUD,Weave,Software,https://github.com/continuuity/weave
+TF8SK5BI,Weka 3,Software,http://www.cs.waikato.ac.nz/%7Eml/weka/
+IA98C3GQ,What a Big-Data Business Model Looks Like,Blog Post,http://blogs.hbr.org/2012/12/what-a-big-data-business-model/
+7ITZGI4T,"What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model?",Web Page,http://infogrid.org/trac/wiki/Reference/PidcockArticle
+U9ZKDEDT,"When Presenting Your Data, Get to the Point Fast",Blog Post,http://blogs.hbr.org/2013/03/when-presenting-your-data-get/
+VJH4W3GA,Why Business Leaders Must Master Data And Analytics,Magazine Article,http://www.forbes.com/sites/oracle/2013/04/22/why-business-leaders-must-master-data-and-analytics/
+5KE5PNMN,Why IT Fumbles Analytics,Web Page,http://hbr.org/2013/01/why-it-fumbles-analytics/ar/1?imm_mid=0a4eb2&#38;cmp=em-strata-newsletters-stratasc-video-20130403-elist
+RRD8TAG6,Why we love Apache Pig,Blog Post,http://labs.umbrella.com/2013/04/08/pig-jruby/
+HX3BHBDF,Win with advanced business analytics creating business value from your data,Book,http://www.worldcat.org/search?q=isbn%3A9781118417089
+3VVRMKKP,Wonderdog,Software,https://github.com/infochimps-labs/wonderdog
+SFA675HS,Wukong,Software,https://github.com/infochimps/wukong
+UR9RPZP8,ZeroMQ,Software,http://zeromq.org/
+4UIPHXGH,ZeroMQ,Book,http://www.worldcat.org/search?q=isbn%3A9781449334062
+Q74GHJ2C,Zipkin,Software,https://github.com/twitter/zipkin
+7NJ7SFX6,Zookeeper: Distributed Process Coordination,Book,http://www.worldcat.org/search?q=isbn%3A
+QMQGHS3U,aRrgh - A newcomer's (angry) guide to data types in R,Web Page,https://github.com/tdsmith/aRrgh
+QH4RXUBQ,atbr,Software,https://github.com/atbrox/atbr
+K46UB84V,bl.ocks.org - mbostock,Web Page,http://bl.ocks.org/mbostock
+JWCDHTFD,csvkit,Software,https://github.com/onyxfish/csvkit
+UADEFCM7,custard,Software,https://github.com/scraperwiki/custard
+RI3Z48MR,d3 Lifeline from vega and clickme,Blog Post,http://timelyportfolio.blogspot.com/2013/04/d3-lifeline-from-vega-and-clickme.html
+TNXI7WIK,d3.chart,Software,https://github.com/misoproject/d3.chart
+C65WQZHM,dablooms,Software,https://github.com/bitly/dablooms
+FWHAB954,datadr,Software,https://github.com/hafen/datadr
+EI32QM4Q,dispatches from the codeface: Complex Event Processing Made Easy (using Esper),Blog Post,http://corsoftlimited.blogspot.co.uk/2013/02/complex-event-processing-made-easy.html
+UZ884DAN,ggplot2,Software,http://ggplot2.org/
+HC9KFCM9,hRaven,Software,https://github.com/twitter/hraven
+MZVX2UH9,httpbin,Software,https://github.com/kennethreitz/httpbin
+BGSPK2KE,ipython-sql,Software,https://pypi.python.org/pypi/ipython-sql
+T77KF39A,lubridate,Software,https://github.com/hadley/lubridate
+ZH9Q9QQZ,madIS,Software,http://code.google.com/p/madis/
+8K6TJD9U,mrjob,Software,https://github.com/Yelp/mrjob
+3VC5SND7,pandas,Software,https://github.com/pydata/pandas
+ETNQ7AEI,pandasql,Software,https://github.com/yhat/pandasql
+5VC63U7Q,pg_strom,Software,https://github.com/kaigai/pg_strom
+R6SXCVGW,pig-data-mining-talk,Presentation,https://github.com/andrewclegg/pig-data-mining-talk
+76M6TKU5,plyr,Software,https://github.com/hadley/plyr
+57B2PHED,pymadlib,Software,https://pypi.python.org/pypi/pymadlib/0.1.4
+V78KWNHT,ql.io,Software,https://github.com/ql-io/ql.io
+87CBBAWH,rhbase,Software,https://github.com/RevolutionAnalytics/rhbase
+WG7BVN58,rhdfs,Software,https://github.com/RevolutionAnalytics/rhdfs
+2EPNFRU9,rmr2,Software,https://github.com/RevolutionAnalytics/rmr2
+WGZ2XBGJ,scikit-learn,Software,https://github.com/scikit-learn/scikit-learn
+UR94HN37,sigma.js,Software,http://sigmajs.org/
+4HF4H9IU,sqlutils,Software,https://github.com/jbryer/sqlutils
+92HVE5UN,topojson,Software,https://github.com/mbostock/topojson
+KD2XRWRH,triflow,Software,https://github.com/trifacta/triflow
+Q4874DBV,vowpal_wabbit,Software,https://github.com/JohnLangford/vowpal_wabbit

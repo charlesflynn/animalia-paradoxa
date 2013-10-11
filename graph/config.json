@@ -5,12 +5,12 @@
   "logo": {
     "text": "Charles Flynn",
     "file": "https://raw.github.com/github/media/master/octocats/blacktocat-32.png",
-    "link": "http://charlesflynn.github.io/animalia-paradoxa"
+    "link": "http://animaliaparadoxa.org"
   },
   "text": {
     "title": "Animalia Paradoxa",
-    "more": "For more information, please see http://charlesflynn.github.io/animalia-paradoxa",
-    "intro": "These are projects that I worked with, tried out, or researched in the last 18 months or so. Please contact me if you\u0027d like something included, so that I can learn about it too."
+    "more": "For more information, please see http://animaliaparadoxa.org",
+    "intro": "These are projects I've worked with, tried out, or researched. Please contact me if you'd like something included, so that I can learn about it too."
   },
   "legend": {
     "edgeLabel": "Click any node to see details.",

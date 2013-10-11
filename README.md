@@ -4,7 +4,7 @@ Animalia Paradoxa
 This is not (even close to) an exhaustive list on the topic of data analytics. This is just a list of stuff I've collected that I thought might be useful to others.
 
 
-This repo contains [the list](http://charlesflynn.github.io/animalia-paradoxa) in several formats:
+This repo contains [the list](http://animaliaparadoxa.org) in several formats:
 -   Zotero [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework)
 -   JSON
 -   PDF (bibliography produced by Zotero)

@@ -24576,7 +24576,7 @@ Here is to a fruitful, invigorating, productive thread! Hooray chums!</dcterms:a
             </rdf:Seq>
         </z:programmers>
         <link:link rdf:resource="#item_1122"/>
-        <dc:title>Samza</dc:title>
+        <dc:title>Apache Samza</dc:title>
         <dcterms:abstract>Apache Samza is a distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.</dcterms:abstract>
         <dc:date>2013-10-09 10:42:52</dc:date>
         <dc:identifier>
@@ -26553,7 +26553,8 @@ Here is to a fruitful, invigorating, productive thread! Hooray chums!</dcterms:a
             <rdf:Seq>
                 <rdf:li>
                     <foaf:Person>
-                       <foaf:surname>Ted Dunning</foaf:surname>
+                        <foaf:surname>Dunning</foaf:surname>
+                        <foaf:givenname>Ted</foaf:givenname>
                     </foaf:Person>
                 </rdf:li>
             </rdf:Seq>
@@ -26605,6 +26606,49 @@ Here is to a fruitful, invigorating, productive thread! Hooray chums!</dcterms:a
         <dc:title>Allen_Day_2013_2013.pptx</dc:title>
         <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
     </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:9781118018262">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>John Wiley &amp; Sons</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huber</foaf:surname>
+                        <foaf:givenname>Peter J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1234"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Mathematics / Probability &amp; Statistics / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Data Analysis: What Can Be Learned From the Past 50 Years</dc:title>
+        <dcterms:abstract>This book explores the many provocative questions concerning the fundamentals of data analysis. It is based on the time-tested experience of one of the gurus of the subject matter. Why should one study data analysis? How should it be taught? What techniques work best, and for whom? How valid are the results? How much data should be tested? Which machine languages should be used, if used at all? Emphasis on apprenticeship (through hands-on case studies) and anecdotes (through real-life applications) are the tools that Peter J. Huber uses in this volume. Concern with specific statistical techniques is not of immediate value; rather, questions of strategy – when to use which technique – are employed. Central to the discussion is an understanding of the significance of massive (or robust) data sets, the implementation of languages, and the use of models. Each is sprinkled with an ample number of examples and case studies. Personal practices, various pitfalls, and existing controversies are presented when applicable. The book serves as an excellent philosophical and historical companion to any present-day text in data analysis, robust statistics, data mining, statistical learning, or computational statistics.</dcterms:abstract>
+        <dc:date>2012-01-09</dc:date>
+        <z:numPages>228</z:numPages>
+        <z:language>en</z:language>
+        <dc:identifier>ISBN 9781118018262</dc:identifier>
+        <z:shortTitle>Data Analysis</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1234">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dcterms:dateSubmitted>2013-10-11 18:26:23</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://books.google.com/books?id=6OSvDBE0rCIC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <bib:ConferenceProceedings rdf:about="http://www.slideshare.net/allenday54/20130617-new-york-open-analytics-summit-no-sql-and-sql">
         <z:itemType>presentation</z:itemType>
         <z:presenters>
@@ -26632,5 +26676,401 @@ Here is to a fruitful, invigorating, productive thread! Hooray chums!</dcterms:a
         <z:itemType>attachment</z:itemType>
         <dc:title>Allen_Day_2013_20132.pptx</dc:title>
         <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="http://www.slideshare.net/matthewterencehayes/hourglass-a-library-for-incremental-processing-on-hadoop">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_1238"/>
+        <dc:title>Hourglass: a Library for Incremental Processing on Hadoop</dc:title>
+        <dcterms:abstract>Slides from my talk at IEEE BigData 2013 presenting our paper &quot;Hourglass: a Library for Incremental Processing on Hadoop&quot;
+
+Abstract:
+Hadoop enables processing of large data sets through its relatively easy-to-use semantics. However, jobs are often written inefficiently for tasks that could be computed incrementally due to the burdensome incremental state management for the programmer. This paper introduces Hourglass, a library for developing incremental monoid computations on Hadoop. It runs on unmodified Hadoop and provides an accumulator-based interface for programmers to store and use state across successive runs; the framework ensures that only the necessary subcomputations are performed. It is successfully used at LinkedIn, one of the largest online social networks, for many use cases in dashboarding and machine learning. Hourglass is open source and freely available.</dcterms:abstract>
+        <z:type>Education</z:type>
+        <dc:date>Wed Oct 09  2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.slideshare.net/matthewterencehayes/hourglass-a-library-for-incremental-processing-on-hadoop</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:07:17</dcterms:dateSubmitted>
+        <z:shortTitle>Hourglass</z:shortTitle>
+        <dc:rights>© All Rights Reserved</dc:rights>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_1238">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Matthew_Hayes_2013_Hourglass.pptx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/linkedin/camus">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>LinkedIn</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <link:link rdf:resource="#item_1240"/>
+        <dc:title>Camus</dc:title>
+        <dcterms:abstract>Camus is LinkedIn's Kafka --> HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka. The code includes automatic discovery of topics, Avro schema management and creation of folders partitioned by date and hour.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/linkedin/camus</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:19:03</dcterms:dateSubmitted>
+    </bib:Data>
+    <z:Attachment rdf:about="#item_1240">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:19:05</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/linkedin/camus</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="http://www.slideshare.net/matthewterencehayes/building-data-products-at-linkedin-with-datafu">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_1241"/>
+        <dc:title>Building Data Products at LinkedIn with DataFu</dc:title>
+        <dcterms:abstract>Examples of buildi</dcterms:abstract>
+        <z:type>Technology</z:type>
+        <dc:date>Mon Aug 26  2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.slideshare.net/matthewterencehayes/building-data-products-at-linkedin-with-datafu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:09:00</dcterms:dateSubmitted>
+        <dc:rights>© All Rights Reserved</dc:rights>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_1241">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Matthew_Hayes_2013_Building_Data_Products_at_LinkedIn_with_DataFu.pptx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/linkedin/white-elephant">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>LinkedIn</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <link:link rdf:resource="#item_1243"/>
+        <dc:title>White Elephant</dc:title>
+        <dcterms:abstract>white-elephant - Hadoop log aggregator and dashboard</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/linkedin/white-elephant</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:11:14</dcterms:dateSubmitted>
+    </bib:Data>
+    <z:Attachment rdf:about="#item_1243">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:11:16</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/linkedin/white-elephant</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/chrislongo/Pig">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Longo</foaf:surname>
+                        <foaf:givenname>Chris</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <link:link rdf:resource="#item_1245"/>
+        <dc:title>Pig for Sublime Text</dc:title>
+        <dcterms:abstract>Package for Apache Pig support in Sublime Text 2</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/chrislongo/Pig</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:12:55</dcterms:dateSubmitted>
+    </bib:Data>
+    <z:Attachment rdf:about="#item_1245">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:12:57</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/chrislongo/Pig</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/senseidb/sensei">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>SenseiDB</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <link:link rdf:resource="#item_1249"/>
+        <dc:title>SenseiDB</dc:title>
+        <dcterms:abstract>Open-source, distributed, realtime, semi-structured database</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/senseidb/sensei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:22:37</dcterms:dateSubmitted>
+    </bib:Data>
+    <z:Attachment rdf:about="#item_1249">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:22:39</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/senseidb/sensei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="http://www.slideshare.net/matthewterencehayes/datafu">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:title>A Brief Tour of DataFu</dc:title>
+        <dcterms:abstract>DataFu is a collection of user-defined functions for working with large-scale data in Hadoop and Pig. This library was born out of the need for a stable, well-tested library of UDFs for data mining and statistics. It is used at LinkedIn in many of our off-line workflows for data derived products like “People You May Know” and “Skills”.  It contains functions for:
+
+* PageRank
+* Quantiles (median), variance, etc.
+* Sessionization
+* Convenience bag functions (e.g., set operations, enumerating bags, etc)
+* Convenience utility functions (e.g., assertions, easier writing of EvalFuncs)
+* and more…</dcterms:abstract>
+        <z:type>Design</z:type>
+        <dc:date>Tue Jun 25  2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.slideshare.net/matthewterencehayes/datafu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:26:54</dcterms:dateSubmitted>
+        <dc:rights>© All Rights Reserved</dc:rights>
+    </bib:ConferenceProceedings>
+    <rdf:Description rdf:about="#item_1251">
+        <z:itemType>conferencePaper</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Santa Clara, CA, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenname>Sam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Hourglass: a Library for Incremental Processing on Hadoop</dc:title>
+        <dcterms:abstract>This paper introduces Hourglass,
+a library for developing incremental monoid computations
+on Hadoop. It runs on unmodified Hadoop and provides an
+accumulator-based interface for programmers to store and use
+state across successive runs; the framework ensures that only
+the necessary subcomputations are performed.</dcterms:abstract>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>IEEE International Conference on Big Data 2013</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://static.usenix.org/events/usenix07/tech/full_papers/shah/shah_html/">
+        <z:itemType>conferencePaper</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenname>Sam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soules</foaf:surname>
+                        <foaf:givenname>Craig AN</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ganger</foaf:surname>
+                        <foaf:givenname>Gregory R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noble</foaf:surname>
+                        <foaf:givenname>Brian D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1254"/>
+        <dc:title>Using Provenance to Aid in Personal File Search.</dc:title>
+        <dc:date>2007</dc:date>
+        <dc:title>USENIX Annual Technical Conference</dc:title>
+        <bib:pages>171–184</bib:pages>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://static.usenix.org/events/usenix07/tech/full_papers/shah/shah_html/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:37:03</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1254">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[HTML] from usenix.org</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:37:06</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://static.usenix.org/events/usenix07/tech/full_papers/shah/shah_html/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>5</link:charset>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2208479">
+        <z:itemType>conferencePaper</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sumbaly</foaf:surname>
+                        <foaf:givenname>Roshan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreps</foaf:surname>
+                        <foaf:givenname>Jay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenname>Lei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feinberg</foaf:surname>
+                        <foaf:givenname>Alex</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soman</foaf:surname>
+                        <foaf:givenname>Chinmay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenname>Sam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1255"/>
+        <link:link rdf:resource="#item_1257"/>
+        <dc:title>Serving large-scale batch computed data with project voldemort</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:title>Proceedings of the 10th USENIX conference on File and Storage Technologies</dc:title>
+        <bib:pages>18–18</bib:pages>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dl.acm.org/citation.cfm?id=2208479</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-10-12 17:37:03</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1255">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-10-12 17:37:07</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dl.acm.org/citation.cfm?id=2208479</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1257">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Sumbaly_et_al_2012_Serving_large-scale_batch_computed_data_with_project_voldemort.pdf</dc:title>
+        <link:type>application/pdf</link:type>
     </z:Attachment>
 </rdf:RDF>

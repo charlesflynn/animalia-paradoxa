@@ -3,6 +3,7 @@ D6SJWXX3,"""Raw data"" is an oxymoron",Book,http://www.worldcat.org/search?q=isb
 AU965PZX,21 recipes for mining Twitter,Book,http://www.worldcat.org/search?q=isbn%3A9781449304096
 XZTKXDDQ,38 Tools For Beautiful Data Visualisations,Web Page,http://www.elisa-dbi.co.uk/blog/38-tools-for-beautiful-data-visualisations/
 I7TIBTGK,A Bird's-Eye View of Pig and Scalding with hRaven,Presentation,http://www.slideshare.net/ghelmling/helmling-june27-1100amhall1?ref=http://eventifier.co/event/hadoopsummit2013/slides
+2KVMUPPU,A Brief Tour of DataFu,Presentation,http://www.slideshare.net/matthewterencehayes/datafu
 2GUVV3UB,A Data Scientist's Real Job: Storytelling,Blog Post,http://blogs.hbr.org/2013/03/a-data-scientists-real-job-sto/
 EF5PVS5A,A Periodic Table of Visualization Methods,Web Page,http://www.visual-literacy.org/periodic_table/periodic_table.html
 NUFKQ8V5,A Tour Through the Visualization Zoo,Web Page,http://hci.stanford.edu/jheer/files/zoo/
@@ -53,6 +54,7 @@ D4QHNTZ6,Apache Mahout,Software,http://mahout.apache.org/
 588PQKCJ,Apache Oozie,Software,http://oozie.apache.org/
 A7VUPGHS,Apache Pig,Software,http://pig.apache.org/
 UT4MIT7F,Apache S4,Software,http://incubator.apache.org/s4/
+BEWHCUBR,Apache Samza,Software,http://samza.incubator.apache.org/
 EQNDHICF,Apache Solr,Software,http://lucene.apache.org/solr/
 KCDBQJXV,"Apache Solr 3 Enterprise Search Server enhance your search with faceted navigation, result highlighting, relevancy ranked sorting, and more",Book,http://www.worldcat.org/search?q=isbn%3A9781849516075
 PX5VIT28,Apache Solr 4 cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781782161332
@@ -100,6 +102,7 @@ UIC9D8XN,Bin-summarise-smooth: A framework for visualising large data,Journal Ar
 IADC22BT,Blacklight,Software,https://github.com/projectblacklight/blacklight
 6DJQHDHT,Blaze,Software,https://github.com/ContinuumIO/blaze
 93M76FGH,Bokeh,Software,https://github.com/ContinuumIO/Bokeh
+24ZTZ865,Building Data Products at LinkedIn with DataFu,Presentation,http://www.slideshare.net/matthewterencehayes/building-data-products-at-linkedin-with-datafu
 6IJ2MVCQ,Building LinkedIn's Real-time Activity Data Pipeline.,Journal Article,http://sites.computer.org/debull/A12june/A12JUN-CD.pdf#page=35
 DXICKUFE,Building Recommendation Platforms with Hadoop,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27475
 EACDTSKK,Building Scalable Big Data Infrastructure Using Open Source Software,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27419
@@ -113,6 +116,7 @@ SMX93MIK,Business intelligence in Microsoft SharePoint 2013,Book,http://www.worl
 U469AWFK,"CAP Twelve Years Later: How the ""Rules"" Have Changed",Web Page,http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
 CDUJR32B,CFOs Ignore Big Data at Their Peril,Newspaper Article,http://online.wsj.com/article/SB10001424127887323419604578571684135006800.html
 EJQQRZ8N,Callimachus,Software,http://callimachusproject.org/
+4NPAM4BA,Camus,Software,https://github.com/linkedin/camus
 FNUC2WMU,Cascading,Software,http://www.cascading.org/
 XIHC7RAQ,Cascalog,Software,https://github.com/nathanmarz/cascalog
 MMCQCBRI,Cassandra high performance cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781849515139
@@ -142,6 +146,7 @@ NRTMP62C,D3.js,Software,https://github.com/mbostock/d3
 UW7WG52G,DB-Engines Ranking,Web Page,http://db-engines.com/en/ranking
 JNM2W77Q,"Dapper, a large-scale distributed systems tracing infrastructure",Journal Article,"http://sites.google.com/site/atlediadema/training-documents/Google%20Technical%20Report%20-%20dapper,%202010.pdf"
 T7M8DJD5,Data Analysis Should Be a Social Event,Web Page,http://blogs.hbr.org/2013/04/data-analysis-should-be-a-soci/
+5GEDB8GK,Data Analysis: What Can Be Learned From the Past 50 Years,Book,http://www.worldcat.org/search?q=isbn%3A
 HK92QE5B,Data Infrastructure at LinkedIn,Presentation,http://www.slideshare.net/amywtang/webscale-analyticsfb-24031929
 TCGI9AX7,Data Mining and Business Analytics with R,Book,http://www.worldcat.org/search?q=isbn%3A9781118593745
 XTXJ7JSU,Data Platform Design Patterns,Presentation,http://www.slideshare.net/allenday54/20130905-singapore-big-datasg
@@ -279,6 +284,8 @@ EH5UPAG9,Hadoop-LZO,Software,https://github.com/twitter/hadoop-lzo
 I5QNIFE4,Harness the Power of Big Data The IBM Big Data Platform,Book,http://www.worldcat.org/search?q=isbn%3A
 DT98VSNE,Hazy: Making it Easier to Build and Maintain Big-data Analytics,Journal Article,http://doi.acm.org/10.1145/2428616.2431055
 WC7VD5F3,Hive-JSON-Serde,Software,https://github.com/rcongiu/Hive-JSON-Serde
+B7FPPTWZ,Hourglass: a Library for Incremental Processing on Hadoop,Presentation,http://www.slideshare.net/matthewterencehayes/hourglass-a-library-for-incremental-processing-on-hadoop
+KJEBXFVT,Hourglass: a Library for Incremental Processing on Hadoop,Conference Paper,
 JN7RQ5RT,How P&G Presents Data to Decision-Makers,Blog Post,http://blogs.hbr.org/cs/2013/04/how_p_and_g_presents_data.html
 VFWI67JV,How Selections Work,Web Page,http://bost.ocks.org/mike/selection/
 MXN3NBFX,How To Perform Spatial Analytics with Hive and Hadoop,Blog Post,http://hortonworks.com/blog/how-to-perform-spatial-analytics-with-hive-and-hadoop/
@@ -422,6 +429,7 @@ C2MIJGWD,Pig Eye for the SQL Guy,Blog Post,http://hortonworks.com/blog/pig-eye-f
 H7EGVRJD,Pig RedisStorer,Software,https://github.com/mattb/pig-redis
 SNCZNBHZ,Pig and HBase with LucidWorks Big Data,Blog Post,http://info.lucidworks.com/blog/bid/272738/Pig-and-HBase-with-LucidWorks-Big-Data
 93SE9235,Pig and Hive at Yahoo!,Blog Post,http://developer.yahoo.com/blogs/hadoop/pig-hive-yahoo-464.html
+BIFVSNC2,Pig for Sublime Text,Software,https://github.com/chrislongo/Pig
 RNKKI9SD,"Pig, ToJson, and Redis to publish data with Flask",Blog Post,http://hortonworks.com/blog/pig-tojson-and-redis-to-publish-data-with-flask/
 V52JFFMF,PigML,Software,https://github.com/hanborq/pigml
 Q45I7GNA,Piglet,Software,https://github.com/iconara/piglet
@@ -489,7 +497,6 @@ VZUMKM4B,Rubydoop,Software,https://github.com/iconara/rubydoop
 T3IDF2J6,S4: Distributed stream computing platform,Conference Paper,http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5693297
 DDWXK6E8,SADDLE,Software,https://github.com/saddle/saddle
 63V95WTG,STAR: Cluster,Software,http://star.mit.edu/cluster/
-BEWHCUBR,Samza,Software,http://samza.incubator.apache.org/
 FEJSVPDD,Scala,Software,http://www.scala-lang.org/
 NKNDSBZW,Scalding,Software,https://github.com/twitter/scalding
 HA7F5GFB,Scaling Apache Giraph to a trillion edges,Blog Post,https://www.facebook.com/notes/facebook-engineering/scaling-apache-giraph-to-a-trillion-edges/10151617006153920
@@ -501,7 +508,9 @@ UGJSSMRV,Scrapely,Software,https://github.com/scrapy/scrapely
 TFBBZW8S,ScraperWiki,Software,https://github.com/scraperwiki/scraperwiki-python
 QAXPVMHR,Scribe,Software,https://github.com/facebook/scribe
 HW27F7NV,Secrets of analytical leaders: insights from information insiders,Book,http://www.worldcat.org/search?q=isbn%3A
+R7HKR5A7,SenseiDB,Software,https://github.com/senseidb/sensei
 553PVKIW,Sentiment analysis and opinion mining,Book,http://www.worldcat.org/search?q=isbn%3A9781608458844
+8P3MN4T4,Serving large-scale batch computed data with project voldemort,Conference Paper,http://dl.acm.org/citation.cfm?id=2208479
 93TI9UJJ,Seven dirty secrets of data visualisation,Magazine Article,http://www.netmagazine.com/features/seven-dirty-secrets-data-visualisation
 J6NGMQS4,Seven steps to success: machine learning in practice,Report,http://daoudclarke.github.io/guide.pdf
 6FIQ2UQA,Shark,Software,https://github.com/amplab/shark
@@ -603,6 +612,7 @@ MXEXCM7M,Using Coprocessors to Index Columns in an Elasticsea...,Presentation,ht
 EEVFZ3EE,Using HBase effectively - What You Need to Know as an Application Developer,Presentation,http://strataconf.com/strata2013/public/schedule/detail/27109
 JW87SW75,Using Hadoop to Expand Data Warehousing,Presentation,http://strataconf.com/strata2013/public/schedule/detail/28638
 H6WCVH87,Using Mahout and a Search Engine for Recommendation,Presentation,http://www.slideshare.net/tdunning/using-mahout-and-a-search-engine-for-recommendation
+5547GI3A,Using Provenance to Aid in Personal File Search.,Conference Paper,http://static.usenix.org/events/usenix07/tech/full_papers/shah/shah_html/
 U4RT2KWR,Using R to unlock the value of big data: big data anylytics with Oracle R Enterprise and Oracle R Connector for hadoop,Book,http://www.worldcat.org/search?q=isbn%3A9780071824385
 FA8A3BGR,Using open source platforms for business intelligence: avoid pitfalls and maximize ROI,Book,http://www.worldcat.org/search?q=isbn%3A
 I54EUK9D,Varaha,Software,https://github.com/thedatachef/varaha
@@ -632,6 +642,7 @@ TF8SK5BI,Weka 3,Software,http://www.cs.waikato.ac.nz/%7Eml/weka/
 IA98C3GQ,What a Big-Data Business Model Looks Like,Blog Post,http://blogs.hbr.org/2012/12/what-a-big-data-business-model/
 7ITZGI4T,"What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model?",Web Page,http://infogrid.org/trac/wiki/Reference/PidcockArticle
 U9ZKDEDT,"When Presenting Your Data, Get to the Point Fast",Blog Post,http://blogs.hbr.org/2013/03/when-presenting-your-data-get/
+KR68DPUB,White Elephant,Software,https://github.com/linkedin/white-elephant
 VJH4W3GA,Why Business Leaders Must Master Data And Analytics,Magazine Article,http://www.forbes.com/sites/oracle/2013/04/22/why-business-leaders-must-master-data-and-analytics/
 5KE5PNMN,Why IT Fumbles Analytics,Web Page,http://hbr.org/2013/01/why-it-fumbles-analytics/ar/1?imm_mid=0a4eb2&#38;cmp=em-strata-newsletters-stratasc-video-20130403-elist
 RRD8TAG6,Why we love Apache Pig,Blog Post,http://labs.umbrella.com/2013/04/08/pig-jruby/

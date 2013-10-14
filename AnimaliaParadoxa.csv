@@ -51,6 +51,7 @@ ECUCQHEC,Apache Kafka,Software,http://kafka.apache.org
 QZ3XNV6B,Apache Lucene,Software,http://lucene.apache.org/
 D4QHNTZ6,Apache Mahout,Software,http://mahout.apache.org/
 486ZVAWX,Apache Mesos,Software,http://mesos.apache.org/
+7TVENZ4Z,Apache Nutch,Software,http://nutch.apache.org/
 588PQKCJ,Apache Oozie,Software,http://oozie.apache.org/
 A7VUPGHS,Apache Pig,Software,http://pig.apache.org/
 UT4MIT7F,Apache S4,Software,http://incubator.apache.org/s4/
@@ -78,6 +79,7 @@ U6WBB8C7,Bearcart,Software,https://github.com/wrobstory/bearcart
 TCUJJEP4,Beautiful Soup,Software,https://pypi.python.org/pypi/beautifulsoup4
 3TVWUUVM,Beginning R: an introduction to statistical programming,Book,http://www.worldcat.org/search?q=isbn%3A9781430245544
 VD62QCKN,Behemoth,Software,https://github.com/DigitalPebble/behemoth
+2V3XBW3Q,BibServer,Software,https://github.com/okfn/bibserver
 SNPSI98I,"Big Data Analytics From Strategic Planning to Enterprise Integration With Tools, Techniques, Nosql, and Graph.",Book,http://www.worldcat.org/search?q=isbn%3A9780124173194
 9XCUBFJF,Big Data Culture Gap: Technology Advancing More Quickly Than People and Processes - Strata,Report,http://strata.oreilly.com/2013/09/big-data-culture-gap-technology-advancing-more-quickly-than-people-and-processes.html#more-59859
 TRD2TPWB,Big Data Security.,Book,http://www.worldcat.org/search?q=isbn%3A9781118559215
@@ -115,6 +117,7 @@ AZDNGES6,Building the unstructured data warehouse,Book,http://www.worldcat.org/s
 SMX93MIK,Business intelligence in Microsoft SharePoint 2013,Book,http://www.worldcat.org/search?q=isbn%3A0735675430
 U469AWFK,"CAP Twelve Years Later: How the ""Rules"" Have Changed",Web Page,http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
 CDUJR32B,CFOs Ignore Big Data at Their Peril,Newspaper Article,http://online.wsj.com/article/SB10001424127887323419604578571684135006800.html
+7VSCXNJD,CKAN,Software,https://github.com/okfn/ckan
 EJQQRZ8N,Callimachus,Software,http://callimachusproject.org/
 4NPAM4BA,Camus,Software,https://github.com/linkedin/camus
 FNUC2WMU,Cascading,Software,http://www.cascading.org/
@@ -130,7 +133,9 @@ DQPCQUIC,Chronos,Software,https://github.com/airbnb/chronos
 JE85QQE3,Clojure data analysis cookbook,Book,http://www.worldcat.org/search?q=isbn%3A9781782162650
 6SWHI2ZD,Cloud9,Software,https://github.com/lintool/Cloud9
 Z79EMGHX,Collective intelligence in action,Book,http://www.worldcat.org/search?q=isbn%3A9781933988313
+FJ323ZA4,CommonCrawl Crawler,Software,https://github.com/commoncrawl/commoncrawl-crawler
 WG2ZAMH2,Comparing Pattern Mining on a Billion Records with HP Vertica and Hadoop,Blog Post,http://www.vertica.com/2013/04/08/comparing-pattern-mining-on-a-billion-records-with-hp-vertica-and-hadoop/
+4UUMEZ3E,Compression Options in Hadoop - A Tale of Tradeoffs,Presentation,http://www.slideshare.net/Hadoop_Summit/kamat-singh-june27425pmroom210cv2
 3RTJD6SQ,Computational-Journalism-Publishers-Workbench,Software,https://github.com/znmeb/Computational-Journalism-Publishers-Workbench
 UBEJTJTM,Constructions from Dots and Lines,Report,http://arxiv.org/abs/1006.2361
 82PE7SA3,Continuuity Reactor,Software,http://continuuity.com/
@@ -147,9 +152,12 @@ UW7WG52G,DB-Engines Ranking,Web Page,http://db-engines.com/en/ranking
 JNM2W77Q,"Dapper, a large-scale distributed systems tracing infrastructure",Journal Article,"http://sites.google.com/site/atlediadema/training-documents/Google%20Technical%20Report%20-%20dapper,%202010.pdf"
 T7M8DJD5,Data Analysis Should Be a Social Event,Web Page,http://blogs.hbr.org/2013/04/data-analysis-should-be-a-soci/
 5GEDB8GK,Data Analysis: What Can Be Learned From the Past 50 Years,Book,http://www.worldcat.org/search?q=isbn%3A
+S97R9FW7,Data Analytics Using Ontologies of Management Theories: Towards Implementing 'From Theory to Practice',Report,http://papers.ssrn.com/abstract=2138121
+646KC3EI,Data Explorer,Software,https://github.com/okfn/dataexplorer
 HK92QE5B,Data Infrastructure at LinkedIn,Presentation,http://www.slideshare.net/amywtang/webscale-analyticsfb-24031929
 TCGI9AX7,Data Mining and Business Analytics with R,Book,http://www.worldcat.org/search?q=isbn%3A9781118593745
 XTXJ7JSU,Data Platform Design Patterns,Presentation,http://www.slideshare.net/allenday54/20130905-singapore-big-datasg
+MKWNV658,Data Proxy,Software,https://github.com/okfn/dataproxy
 N47JPCM7,Data Recipes: Using Hadoop to Explore Chaos,Blog Post,http://thedatachef.blogspot.com/2013/08/using-hadoop-to-explore-chaos.html
 TQU6ZJKK,"Data Science tools: Are you ""all in"" or do you ""mix and match""?",Blog Post,http://strata.oreilly.com/2013/03/data-science-tools-all-in-or-mix-and-match.html
 8GU9J7SQ,Data Wrangler,Software,http://vis.stanford.edu/wrangler/app/
@@ -283,6 +291,8 @@ EH5UPAG9,Hadoop-LZO,Software,https://github.com/twitter/hadoop-lzo
 32PZS897,Hadoopy,Software,https://github.com/bwhite/hadoopy
 I5QNIFE4,Harness the Power of Big Data The IBM Big Data Platform,Book,http://www.worldcat.org/search?q=isbn%3A
 DT98VSNE,Hazy: Making it Easier to Build and Maintain Big-data Analytics,Journal Article,http://doi.acm.org/10.1145/2428616.2431055
+RKDHM7X2,Hbase-Writer,Software,https://code.google.com/p/hbase-writer/
+AE9KN8BI,Heritrix,Software,https://github.com/internetarchive/heritrix3
 WC7VD5F3,Hive-JSON-Serde,Software,https://github.com/rcongiu/Hive-JSON-Serde
 B7FPPTWZ,Hourglass: a Library for Incremental Processing on Hadoop,Presentation,http://www.slideshare.net/matthewterencehayes/hourglass-a-library-for-incremental-processing-on-hadoop
 KJEBXFVT,Hourglass: a Library for Incremental Processing on Hadoop,Conference Paper,
@@ -315,6 +325,7 @@ WAPBVK5X,Information graphics,Book,http://www.worldcat.org/search?q=isbn%3A97838
 NJGAFSQE,Ingesting XML in Hive using XPath,Blog Post,https://communities.intel.com/community/datastack/blog/2013/08/15/hadoop-tutorials-ingesting-xml-in-hive-using-xpath
 RB836D8G,Interactive Python graphics/visualisation with Excel,Web Page,http://dpinte.wordpress.com/2010/03/12/interactive-python-graphicsvisualisation-with-excel/
 F9BG5MZC,Interactive data visualization for the web,Book,http://www.worldcat.org/search?q=isbn%3A9781449340254
+QKUMNKHN,Internet Archive,Video,http://vimeo.com/59207751
 ACIAGMCK,Interpreting the Data: Parallel Analysis with Sawzall,Journal Article,http://lambda.csail.mit.edu/~chet/papers/others/p/pike/sawzall-sciprog.pdf
 DXQ7F58M,Intro to Python for Financial Data Analysis,Presentation,http://www.slideshare.net/wesm/intro-to-python-for-financial-data-analysis
 HDMHVT7H,Introduction to Mahout and How To Build a Recommender,Presentation,http://www.slideshare.net/tdunning/dfw-big-data-talk-on-mahout-recommenders
@@ -482,6 +493,7 @@ P3Q98J8M,RTextTools,Software,https://github.com/timjurka/RTextTools
 5S3HG4AT,RapidMiner,Software,http://rapid-i.com/content/view/181/190/
 MM4P5BKM,Re: About the combiner execution,Email,http://mail-archives.apache.org/mod_mbox/hadoop-hdfs-user/201107.mbox/%3C374D8F3F-B8B1-499F-BEDB-BFEE3219010C@hortonworks.com%3E
 NFVQ37JN,Reading and Writing Avro Files from the Command Line,Blog Post,http://www.michael-noll.com/blog/2013/03/17/reading-and-writing-avro-files-from-the-command-line/
+KIIUCGBI,Recline.js,Software,https://github.com/okfn/recline
 QQGIJEHC,Recognizing numbers,Blog Post,http://www.johndcook.com/blog/2013/04/30/recognizing-numbers/
 TKRUM2ZE,Recommender systems: an introduction,Book,http://www.worldcat.org/search?q=isbn%3A9780521493369
 ZSK7WES7,RecordBreaker,Software,http://cloudera.github.com/RecordBreaker/
@@ -572,6 +584,7 @@ NS999WNG,The Hidden Biases in Big Data,Blog Post,http://blogs.hbr.org/2013/04/th
 PRU5CIT6,The Netflix Tech Blog: System Architectures for Personalization and Recommendation,Blog Post,http://techblog.netflix.com/2013/03/system-architectures-for.html
 VGXIICVG,The Question All Smart Visualizations Should Ask,Blog Post,http://blogs.hbr.org/2013/03/the-question-all-smart-visualizations/
 PXX5BCFU,The R Project,Software,http://www.r-project.org/
+EVZKPAED,The WARC Ecosystem,Web Page,http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem
 CPXRJF9K,"The Wall Street journal guide to information graphics: the dos and don'ts of presenting data, facts, and figures",Book,http://www.worldcat.org/search?q=isbn%3A
 XH4244IV,The accidental analyst: show your data who's boss,Book,http://www.worldcat.org/search?q=isbn%3A1477432264
 6NZXUA97,The art of R programming: tour of statistical software design,Book,http://www.worldcat.org/search?q=isbn%3A
@@ -633,11 +646,16 @@ DQVRDA89,Visualizing the differences between UX and UI,Web Page,http://agbeat.co
 KQJRFCE4,Vizster: Visualizing online social networks,Conference Paper,http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1532126
 SKPMDJAT,Voldemort,Software,https://github.com/voldemort/voldemort
 SHHKCT7T,WAL-E,Software,https://github.com/wal-e/wal-e#wal-e-disaster-recovery
+7KR76EC9,WARCreate,Software,https://github.com/machawk1/warcreate
+N4QSREF8,WARCreate - Create Wayback-Consumable WARC Files from Any Webpage,Presentation,http://www.slideshare.net/matkelly01/warcreate-create-waybackconsumable-warc-files-from-any-webpage
 ZV4S98RX,Waimea,Software,https://github.com/internetarchive/waimea
 8W48PBRW,Wakari,Software,https://wakari.io/
 C64F5D3H,Wakari and Big Finance,Blog Post,http://continuum.io/blog/wakari-and-big-finance
+EGEER87P,WarcBase,Software,https://github.com/lintool/warcbase
 SXDQVDTD,"Warren Buffett, The Human Big Data Engine",Blog Post,http://www.business2community.com/big-data/warren-buffett-the-human-big-data-engine-0484510
 PPSVWXUD,Weave,Software,https://github.com/continuuity/weave
+EFJDIF7J,Web Analytics with Hadoop and Pig,Presentation,http://infolab.stanford.edu/wac/aaronBinnsTalk2012/index.html#slide1
+A2T2XGSE,Web Archiving Integration Layer (WAIL),Software,https://github.com/machawk1/wail
 TF8SK5BI,Weka 3,Software,http://www.cs.waikato.ac.nz/%7Eml/weka/
 IA98C3GQ,What a Big-Data Business Model Looks Like,Blog Post,http://blogs.hbr.org/2012/12/what-a-big-data-business-model/
 7ITZGI4T,"What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model?",Web Page,http://infogrid.org/trac/wiki/Reference/PidcockArticle
@@ -656,6 +674,7 @@ Q74GHJ2C,Zipkin,Software,https://github.com/twitter/zipkin
 QMQGHS3U,aRrgh - A newcomer's (angry) guide to data types in R,Web Page,https://github.com/tdsmith/aRrgh
 QH4RXUBQ,atbr,Software,https://github.com/atbrox/atbr
 K46UB84V,bl.ocks.org - mbostock,Web Page,http://bl.ocks.org/mbostock
+PHSEFRRR,crawler4j,Software,https://code.google.com/p/crawler4j/
 JWCDHTFD,csvkit,Software,https://github.com/onyxfish/csvkit
 UADEFCM7,custard,Software,https://github.com/scraperwiki/custard
 RI3Z48MR,d3 Lifeline from vega and clickme,Blog Post,http://timelyportfolio.blogspot.com/2013/04/d3-lifeline-from-vega-and-clickme.html
@@ -669,6 +688,7 @@ MZVX2UH9,httpbin,Software,https://github.com/kennethreitz/httpbin
 BGSPK2KE,ipython-sql,Software,https://pypi.python.org/pypi/ipython-sql
 T77KF39A,lubridate,Software,https://github.com/hadley/lubridate
 ZH9Q9QQZ,madIS,Software,http://code.google.com/p/madis/
+EAN6NMEF,messytables,Software,https://github.com/okfn/messytables
 8K6TJD9U,mrjob,Software,https://github.com/Yelp/mrjob
 3VC5SND7,pandas,Software,https://github.com/pydata/pandas
 ETNQ7AEI,pandasql,Software,https://github.com/yhat/pandasql
